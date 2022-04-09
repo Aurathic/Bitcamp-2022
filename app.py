@@ -1,5 +1,5 @@
 # app.py
-from flask import Flask, request, jsonify
+from flask import Flask, render_template, request, jsonify
 app = Flask(__name__)
 
 @app.route('/getmsg/', methods=['GET'])
@@ -41,10 +41,15 @@ def post_something():
             "ERROR": "no name found, please send a name."
         })
 
-# A welcome message to test our server
+# MAIN WEBPAGE
 @app.route('/')
 def index():
-    return "<h1>Welcome to our server !!</h1>"
+    return render_template('index.html')
+
+
+@app.route('/results')
+def results():
+    return "<h1>LoL</h1>"
 
 if __name__ == '__main__':
     # Threaded option to enable multiple instances for multiple user access support
