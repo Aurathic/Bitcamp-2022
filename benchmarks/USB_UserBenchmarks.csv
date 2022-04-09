@@ -1,0 +1,646 @@
+Type,Part Number,Brand,Model,Rank,Benchmark,Samples,URL
+USB,MKNUFDVU240GB,Mushkin,Ventura Ultra USB 3.0 240GB,1,151,27,https://usb.userbenchmark.com/SpeedTest/7528/Mushkin-Ventura-Ultra
+USB,MKNUFDVU60GB,Mushkin,Ventura Ultra USB 3.0 60GB,2,143,38,https://usb.userbenchmark.com/Mushkin-Ventura-Ultra-USB-30-60GB/Rating/2281
+USB,MKNUFDVU120GB,Mushkin,Ventura Ultra USB 3.0 120GB,3,140,48,https://usb.userbenchmark.com/SpeedTest/8396/Mushkin-Ventura-Ultra
+USB,CMFVYGTX3-256GB,Corsair,Flash Voyager GTX USB 3.0 256GB,4,114,71,https://usb.userbenchmark.com/SpeedTest/12583/Corsair-Voyager-GTX
+USB,CMFVYGTX3-128GB,Corsair,Flash Voyager GTX USB 3.0 128GB,5,114,101,https://usb.userbenchmark.com/SpeedTest/13691/Corsair-Voyager-GTX
+USB,SDCZ88-128G,SanDisk,Extreme Pro USB 3.0 128GB,6,80.5,1443,https://usb.userbenchmark.com/SpeedTest/7603/SanDisk-ExtremePro
+USB,SDCZ80-064G,SanDisk,Extreme USB 3.0 64GB,7,70.5,5772,https://usb.userbenchmark.com/SanDisk-Extreme-USB-30-64GB/Rating/1459
+USB,MUF-64BB/US,Samsung,FIT USB 3.0 64GB,8,69.9,3937,https://usb.userbenchmark.com/SpeedTest/36937/Samsung-Flash-Drive-FIT
+USB,SDCZ80-032G,SanDisk,Extreme USB 3.0 32GB,9,63.7,4212,https://usb.userbenchmark.com/SanDisk-Extreme-USB-30-32GB/Rating/1466
+USB,,Drobo,Mini 4.5TB,10,63.2,15,https://usb.userbenchmark.com/SpeedTest/2759/Drobo-Mini
+USB,SDCZ80-016G,SanDisk,Extreme USB 3.0 16GB,11,62.2,2815,https://usb.userbenchmark.com/SanDisk-Extreme-USB-30-16GB/Rating/1301
+USB,HXS3/512GB,Kingston,HyperX Savage USB 3.1 512GB,12,61.4,90,https://usb.userbenchmark.com/SpeedTest/80249/Kingston-HyperX-Savage
+USB,HXS3/128GB,Kingston,HyperX Savage USB 3.1 128GB,13,60.9,640,https://usb.userbenchmark.com/SpeedTest/64443/Kingston-HyperX-Savage
+USB,HXS3/256GB,Kingston,HyperX Savage USB 3.1 256GB,14,60.5,436,https://usb.userbenchmark.com/SpeedTest/47907/Kingston-HyperX-Savage
+USB,SDCZ880-128G,SanDisk,Extreme Pro USB 3.1 128GB,15,60,1214,https://usb.userbenchmark.com/SpeedTest/236544/SanDisk-Extreme-Pro
+USB,MUF-32BB/AM,Samsung,FIT USB 3.0 32GB,16,58.7,3204,https://usb.userbenchmark.com/SpeedTest/38059/Samsung-Flash-Drive-FIT
+USB,,Apricorn,SATAWire 256GB,17,58.3,33,https://usb.userbenchmark.com/SpeedTest/10670/Apricorn-SATAWire
+USB,,Corsair,Voyager GS 126GB,18,58,50,https://usb.userbenchmark.com/SpeedTest/7514/Corsair-Voyager-GS
+USB,SDCZ880-256G,SanDisk,Extreme Pro USB 3.1 256GB,19,57.6,394,https://usb.userbenchmark.com/SpeedTest/248252/SanDisk-Extreme-Pro
+USB,LJDP20-64GCRBNA,Lexar,JumpDrive P20 USB 3.0 64GB,20,56.1,534,https://usb.userbenchmark.com/Lexar-JumpDrive-P20-USB-30-64GB/Rating/3528
+USB,LJDP20-64GCRBEU,Lexar,JumpDrive P20 USB 3.0 64GB,20,56.1,534,https://usb.userbenchmark.com/Lexar-JumpDrive-P20-USB-30-64GB/Rating/3528
+USB,LJDP10-32GCRBEU,Lexar,JumpDrive P10 USB 3.0 32GB,21,54.8,79,https://usb.userbenchmark.com/Lexar-JumpDrive-P10-USB-30-32GB/Rating/1476
+USB,,Samsung,D3 Station 2TB,22,51.4,2604,https://usb.userbenchmark.com/SpeedTest/5414/Samsung-D3-Station
+USB,HXS3/64GB,Kingston,HyperX Savage USB 3.1 64GB,23,50.4,723,https://usb.userbenchmark.com/SpeedTest/41443/Kingston-HyperX-Savage
+USB,LJDP10-64GCRBNA,Lexar,JumpDrive P10 USB 3.0 64GB,24,49.7,65,https://usb.userbenchmark.com/Lexar-JumpDrive-P10-USB-30-64GB/Rating/1475
+USB,LJDP10-64GCRBEU,Lexar,JumpDrive P10 USB 3.0 64GB,24,49.7,65,https://usb.userbenchmark.com/Lexar-JumpDrive-P10-USB-30-64GB/Rating/1475
+USB,,Seagate,Expansion Desk 2TB,25,49,7304,https://usb.userbenchmark.com/SpeedTest/2499/Seagate-Expansion-Desk
+USB,DTHX30/64GB,Kingston,DataTraveler HyperX USB 3.0 64GB,26,47.8,620,https://usb.userbenchmark.com/Kingston-DataTraveler-HyperX-USB-30-64GB/Rating/1413
+USB,,Seagate,Backup+ Desk 3TB,27,46.4,1021,https://usb.userbenchmark.com/SpeedTest/3835/Seagate-Backup--Desk
+USB,AUE700-128G-CBK,Adata,DashDrive Elite UE700 128GB,28,45.7,43,https://usb.userbenchmark.com/SpeedTest/5044/ADATA-USB-Flash-Drive
+USB,9000349,Lacie,XtremKey USB 3.0 64GB,29,45.1,4,https://usb.userbenchmark.com/Lacie-XtremKey-USB-30-64GB/Rating/1565
+USB,,BUFFALO,HD-LXU3 1TB,30,45.1,73,https://usb.userbenchmark.com/SpeedTest/5083/BUFFALO-HD-LXU3
+USB,,Kingston,DT HyperX 3.0 126GB,31,45.1,112,https://usb.userbenchmark.com/SpeedTest/5359/Kingston-DT-HyperX-30
+USB,,ST3000DM,001-1CH166 3TB,32,44.7,147,https://usb.userbenchmark.com/SpeedTest/10423/ST3000DM-001-1CH166
+USB,PSF128GXPUSB,Patriot,Supersonic Xpress USB 3.0 128GB,33,43.6,114,https://usb.userbenchmark.com/SpeedTest/4692/Patriot-Memory
+USB,,BUFFALO,External HDD 3TB,34,43.4,178,https://usb.userbenchmark.com/SpeedTest/7033/BUFFALO-External-HDD
+USB,,Intenso,USB 3.0 Device 2TB,35,43.4,654,https://usb.userbenchmark.com/SpeedTest/12198/Intenso-USB-30-Device
+USB,SDCZ800-128G,SanDisk,Extreme Go USB 3.1 128GB,36,43.3,939,https://usb.userbenchmark.com/SpeedTest/259550/SanDisk-Extreme
+USB,,WD,My Book 1230 2TB,37,41.5,4879,https://usb.userbenchmark.com/SpeedTest/7450/WD-My-Book-1230
+USB,,ST3000DM,001-9YN166 3TB,38,41.2,21,https://usb.userbenchmark.com/SpeedTest/12114/ST3000DM-001-9YN166
+USB,,ST4000DM,000-1F2168 4TB,39,41.1,42,https://usb.userbenchmark.com/SpeedTest/12113/ST4000DM-000-1F2168
+USB,PSF64GXPUSB,Patriot,Supersonic Xpress USB 3.0 64GB,40,40.6,167,https://usb.userbenchmark.com/SpeedTest/3811/Patriot-Memory
+USB,,asmedia,ASM1053E 2TB,41,40.2,9,https://usb.userbenchmark.com/SpeedTest/7201/asmedia-ASM1053E
+USB,,WD,My Book 1230 3TB,42,40.2,8125,https://usb.userbenchmark.com/SpeedTest/9102/WD-My-Book-1230
+USB,,WD,My Book 1230 4TB,43,40.1,13633,https://usb.userbenchmark.com/SpeedTest/2929/WD-My-Book-1230
+USB,,Innostor,Innostor 256GB,44,39.4,23,https://usb.userbenchmark.com/SpeedTest/10725/Innostor-Innostor
+USB,,Kingston,DT Ultimate 16GB,45,39.3,27,https://usb.userbenchmark.com/SpeedTest/2156/Kingston-DT-Ultimate
+USB,,WD,My Book 1140 3TB,46,38.6,6184,https://usb.userbenchmark.com/SpeedTest/1579/WD-My-Book-1140
+USB,,Kingston,DT HyperX 3.0 128GB,47,38.6,55,https://usb.userbenchmark.com/SpeedTest/6316/Kingston-DT-HyperX-30
+USB,,TrekStor,DS maxi light 30 2TB,48,38.5,47,https://usb.userbenchmark.com/SpeedTest/5132/TrekStor-DS-maxi-light-30
+USB,,LaCie,d2 Quadra v3C 2TB,49,38.3,31,https://usb.userbenchmark.com/SpeedTest/6946/LaCie-d2-Quadra-v3C
+USB,,TOSHIBA,MQ01ABD050 500GB,50,37.9,3,https://usb.userbenchmark.com/SpeedTest/3559/TOSHIBA-MQ01ABD050
+USB,,Seagate,Backup+ Desk 1TB,51,37.6,185,https://usb.userbenchmark.com/SpeedTest/4767/Seagate-Backup--Desk
+USB,,asmedia,ASM1053 2TB,52,37.3,92,https://usb.userbenchmark.com/SpeedTest/13016/asmedia-ASM1053
+USB,SDCZ800-064G,SanDisk,Extreme Go USB 3.1 64GB,53,37.3,2009,https://usb.userbenchmark.com/SpeedTest/233900/SanDisk-Extreme
+USB,,,MXUB3SES-16G 16GB,54,37.1,10,https://usb.userbenchmark.com/SpeedTest/6560/MXUB3SES-16G
+USB,,Corsair,Voyager GT 3.0 128GB,55,36.7,53,https://usb.userbenchmark.com/SpeedTest/4631/Corsair-Voyager-GT-30
+USB,,I-O,DATA HDCA-UT 2TB,56,36.1,18,https://usb.userbenchmark.com/SpeedTest/2894/I-O-DATA-HDCA-UT
+USB,,WD,My Book 3.0 1123 1TB,57,35.9,173,https://usb.userbenchmark.com/SpeedTest/4862/WD-My-Book-30-1123
+USB,,WD,My Book 1140 4TB,58,35.6,1598,https://usb.userbenchmark.com/SpeedTest/4814/WD-My-Book-1140
+USB,LJDNV64GCRBEU,Lexar,JumpDrive Triton USB 3.0 64GB,59,35,7,https://usb.userbenchmark.com/Lexar-JumpDrive-Triton-USB-30-64GB/Rating/1464
+USB,,Samsung,M3 Portable 2TB,60,34.7,5123,https://usb.userbenchmark.com/SpeedTest/5483/Samsung-M3-Portable
+USB,,Initio,INIC-3609 500GB,61,34.5,127,https://usb.userbenchmark.com/SpeedTest/6861/Initio-INIC-3609
+USB,,HGST,HTS 545050A7E680 500GB,62,34.4,132,https://usb.userbenchmark.com/SpeedTest/9890/HGST-HTS-545050A7E680
+USB,,PNY,USB 3.0 FD 256GB,63,34.4,358,https://usb.userbenchmark.com/SpeedTest/11237/PNY-USB-30-FD
+USB,LJDNV32GCRBEU,Lexar,JumpDrive Triton USB 3.0 32GB,64,34.3,44,https://usb.userbenchmark.com/Lexar-JumpDrive-Triton-USB-30-32GB/Rating/1465
+USB,LJDP10-16GCRBEU,Lexar,JumpDrive P10 USB 3.0 16GB,65,34.2,39,https://usb.userbenchmark.com/Lexar-JumpDrive-P10-USB-30-16GB/Rating/1477
+USB,LJDP20-32GCRBNA,Lexar,JumpDrive P20 USB 3.0 32GB,66,33.7,222,https://usb.userbenchmark.com/Lexar-JumpDrive-P20-USB-30-32GB/Rating/3527
+USB,LJDP20-32GCRBEU,Lexar,JumpDrive P20 USB 3.0 32GB,66,33.7,222,https://usb.userbenchmark.com/Lexar-JumpDrive-P20-USB-30-32GB/Rating/3527
+USB,9000300,Lacie,XtremKey USB 3.0 32GB,67,33.6,5,https://usb.userbenchmark.com/Lacie-XtremKey-USB-30-32GB/Rating/1566
+USB,AUE700-64G-CBK,Adata,DashDrive Elite UE700 USB 3.0 64GB,68,33.4,369,https://usb.userbenchmark.com/Adata-DashDrive-Elite-UE700-USB-30-64GB/Rating/1562
+USB,,TOSHIBA,TransMemory-Ex2 32GB,69,33.3,36,https://usb.userbenchmark.com/SpeedTest/10053/TOSHIBA-TransMemory-Ex2
+USB,,HGST,HTS 545050A7E680 500GB,70,33.1,43,https://usb.userbenchmark.com/SpeedTest/10410/HGST-HTS-545050A7E680
+USB,,WD,My Passport 07AE 500GB,71,32.8,53,https://usb.userbenchmark.com/SpeedTest/9818/WD-My-Passport-07AE
+USB,SDCZ73-256G-G46,SanDisk,Ultra Flair USB 3.0 256GB,72,32.8,69,https://usb.userbenchmark.com/SpeedTest/405096/SanDisk-Ultra-USB-30
+USB,CMFVYGT3A-64GB,Corsair,Flash Voyager GT USB 3.0 64GB,73,32.4,379,https://usb.userbenchmark.com/Corsair-Flash-Voyager-GT-USB-30-64GB/Rating/1567
+USB,,WD,My Book 1140 2TB,74,32.4,9352,https://usb.userbenchmark.com/SpeedTest/1552/WD-My-Book-1140
+USB,,WD,My Book 1170 2TB,75,32.2,520,https://usb.userbenchmark.com/SpeedTest/4578/WD-My-Book-1170
+USB,,ST1000LM,024 HN-M101MBB 1TB,76,32.1,60,https://usb.userbenchmark.com/SpeedTest/1653/ST1000LM-024-HN-M101MBB
+USB,,Seagate,External 2TB,77,32.1,667,https://usb.userbenchmark.com/SpeedTest/2144/Seagate-External
+USB,CMFVYGT3A-32GB,Corsair,Flash Voyager GT USB 3.0 32GB,78,31.9,694,https://usb.userbenchmark.com/Corsair-Flash-Voyager-GT-USB-30-32GB/Rating/1570
+USB,,ST1500DL,003-9VT16L 1.5TB,79,31.9,186,https://usb.userbenchmark.com/SpeedTest/4549/ST1500DL-003-9VT16L
+USB,,WD,My Book 1130 3TB,80,31.8,775,https://usb.userbenchmark.com/SpeedTest/4861/WD-My-Book-1130
+USB,,WD,My Passport 0741 1TB,81,31.5,1737,https://usb.userbenchmark.com/SpeedTest/4935/WD-My-Passport-0741
+USB,,Seagate,Backup+ BK 2TB,82,31.5,80,https://usb.userbenchmark.com/SpeedTest/5646/Seagate-Backup---BK
+USB,,WD,My Passport 0830 1TB,83,31.5,7852,https://usb.userbenchmark.com/SpeedTest/9130/WD-My-Passport-0830
+USB,,Sview,SV-WiFi-S250UN 1TB,84,31.5,15,https://usb.userbenchmark.com/SpeedTest/12439/Sview-SV-WiFi-S250UN
+USB,,Seagate,External 1TB,85,31.4,197,https://usb.userbenchmark.com/SpeedTest/9293/Seagate-External
+USB,,PNY,USB 3.0 FD 128GB,86,31.4,740,https://usb.userbenchmark.com/SpeedTest/5535/PNY-USB-30-FD
+USB,,Seagate,FA GoFlex Desk 2TB,87,31.3,2168,https://usb.userbenchmark.com/SpeedTest/1236/Seagate-FA-GoFlex-Desk
+USB,,WD,My Passport 0810 500GB,88,31.1,1132,https://usb.userbenchmark.com/SpeedTest/6985/WD-My-Passport-0810
+USB,,ST320005,42AS 2TB,89,30.9,52,https://usb.userbenchmark.com/SpeedTest/11690/ST320005-42AS
+USB,,WD,My Passport 07A8 1TB,90,30.9,5667,https://usb.userbenchmark.com/SpeedTest/2838/WD-My-Passport-07A8
+USB,,WD,My Passport 0816 500GB,91,30.8,17,https://usb.userbenchmark.com/SpeedTest/9999/WD-My-Passport-0816
+USB,,WD,My Book 1130 2TB,92,30.8,1628,https://usb.userbenchmark.com/SpeedTest/2726/WD-My-Book-1130
+USB,,PHD,3.0 Silicon-Power 1TB,93,30.7,4619,https://usb.userbenchmark.com/SpeedTest/5127/PHD-30-Silicon-Power
+USB,,WD,My Passport 0820 1TB,94,30.5,16397,https://usb.userbenchmark.com/SpeedTest/6273/WD-My-Passport-0820
+USB,,WD,My Passport 1.5TB,95,30.4,748,https://usb.userbenchmark.com/SpeedTest/4563/WD-My-Passport-0748
+USB,,Seagate,USB 3.0 Cable 750GB,96,30.3,71,https://usb.userbenchmark.com/SpeedTest/4966/Seagate-USB-30-Cable
+USB,,WD,My Passport 07A8 500GB,97,30.2,1278,https://usb.userbenchmark.com/SpeedTest/1639/WD-My-Passport-07A8
+USB,,ADATA,HV620 2TB,98,30.2,727,https://usb.userbenchmark.com/SpeedTest/4365/ADATA-HV620
+USB,,Intenso,USB 3.0 Device 1TB,99,30.1,1652,https://usb.userbenchmark.com/SpeedTest/12049/Intenso-USB-30-Device
+USB,,Seagate,Wireless 1TB,100,29.9,393,https://usb.userbenchmark.com/SpeedTest/11345/Seagate-Wireless
+USB,,WD,My Book 1140 1TB,101,29.8,1720,https://usb.userbenchmark.com/SpeedTest/2598/WD-My-Book-1140
+USB,,Seagate,GoFlex Desk 1TB,102,29.7,394,https://usb.userbenchmark.com/SpeedTest/1395/Seagate-GoFlex-Desk
+USB,,WD,My Passport 2TB,103,29.7,10391,https://usb.userbenchmark.com/SpeedTest/1213/WD-My-Passport-0748
+USB,,WD,My Passport 0741 2TB,104,29.7,1575,https://usb.userbenchmark.com/SpeedTest/2722/WD-My-Passport-0741
+USB,,TOSHIBA,External USB 3.0 1.5TB,105,29.6,2010,https://usb.userbenchmark.com/SpeedTest/1470/TOSHIBA-External-USB-30
+USB,,WD,My Passport 0810 1TB,106,29.5,5165,https://usb.userbenchmark.com/SpeedTest/3372/WD-My-Passport-0810
+USB,,Sony,Hard Drive 1TB,107,29.4,2164,https://usb.userbenchmark.com/SpeedTest/3633/Sony-Hard-Drive
+USB,,WD,My Passport 0820 2TB,108,29.4,18025,https://usb.userbenchmark.com/SpeedTest/2353/WD-My-Passport-0820
+USB,,BUFFALO,HD-PCFU3 1TB,109,29.4,489,https://usb.userbenchmark.com/SpeedTest/3921/BUFFALO-HD-PCFU3
+USB,,WD,My Passport 750GB,110,29.3,388,https://usb.userbenchmark.com/SpeedTest/6592/WD-My-Passport-0748
+USB,49807,Verbatim,Store n Go V3 Max USB 3.0 64GB,111,29.2,62,https://usb.userbenchmark.com/Verbatim-Store-n-Go-V3-Max-USB-30-64GB/Rating/1574
+USB,,BUFFALO,HD-PNTU3 1TB,112,29.1,750,https://usb.userbenchmark.com/SpeedTest/7154/BUFFALO-HD-PNTU3
+USB,,STT,EXPRESS ST4 32GB,113,29,5,https://usb.userbenchmark.com/SpeedTest/3654/STT-EXPRESS-ST4
+USB,,Corsair,Voyager GT 3.0 64GB,114,28.8,22,https://usb.userbenchmark.com/SpeedTest/5886/Corsair-Voyager-GT-30
+USB,,ADATA,HD710 1TB,115,28.8,3621,https://usb.userbenchmark.com/SpeedTest/11608/ADATA-HD710
+USB,,WD,My Passport 1TB,116,28.8,12053,https://usb.userbenchmark.com/SpeedTest/1272/WD-My-Passport-0748
+USB,,BUFFALO,HD-PCTU3 1TB,117,28.8,967,https://usb.userbenchmark.com/SpeedTest/4001/BUFFALO-HD-PCTU3
+USB,,WDC,WD10 JPVT-75A1YT0 1TB,118,28.7,7,https://usb.userbenchmark.com/SpeedTest/7572/WDC-WD10-JPVT-75A1YT0
+USB,AUE700-32G-CBK,Adata,DashDrive Elite UE700 32GB,119,28.7,228,https://usb.userbenchmark.com/SpeedTest/5531/ADATA-USB-Flash-Drive
+USB,DTU30G3/64GB,Kingston,DataTraveler Ultimate G3 USB 3.0 64GB,120,28.6,259,https://usb.userbenchmark.com/Kingston-DataTraveler-Ultimate-G3-USB-30-64GB/Rating/1457
+USB,,BUFFALO,HD-PZU3 1TB,121,28.5,406,https://usb.userbenchmark.com/SpeedTest/8185/BUFFALO-HD-PZU3
+USB,MKNUFDVP64GB,Mushkin,Ventura Pro USB 3.0 64GB,122,28.3,99,https://usb.userbenchmark.com/Mushkin-Ventura-Pro-USB-30-64GB/Rating/1485
+USB,MKNUFDVP32GB,Mushkin,Ventura Pro USB 3.0 32GB,123,28.2,52,https://usb.userbenchmark.com/SpeedTest/1116/MUSHKIN-MKNUFDVP32GB
+USB,,Seagate,GoFlex Desk 2TB,124,27.8,1116,https://usb.userbenchmark.com/SpeedTest/5157/Seagate-GoFlex-Desk
+USB,,Innostor,Innostor 128GB,125,27.7,47,https://usb.userbenchmark.com/SpeedTest/8604/Innostor-Innostor
+USB,,Corsair,Survivor 3.0 64GB,126,27.6,294,https://usb.userbenchmark.com/SpeedTest/4221/Corsair-Survivor-30
+USB,SDCZ48-064G,SanDisk,Ultra USB 3.0 64GB,127,27.5,15545,https://usb.userbenchmark.com/SpeedTest/2009/SanDisk-SanDisk-Ultra
+USB,,Intenso,USB 3.0 Device 500GB,128,27.3,467,https://usb.userbenchmark.com/SpeedTest/3107/Intenso-USB-30-Device
+USB,SDCZ73-064G-G46,SanDisk,Ultra Flair USB 3.0 64GB,129,27.3,7417,https://usb.userbenchmark.com/SpeedTest/41131/SanDisk-Ultra-USB-30
+USB,,Samsung,M3 Portable 1TB,130,27.1,17510,https://usb.userbenchmark.com/SpeedTest/2232/Samsung-M3-Portable
+USB,DTU30G3/32GB,Kingston,DataTraveler Ultimate G3 USB 3.0 32GB,131,27,581,https://usb.userbenchmark.com/Kingston-DataTraveler-Ultimate-G3-USB-30-32GB/Rating/1579
+USB,,Corsair,Voyager GT 3.0 32GB,132,27,62,https://usb.userbenchmark.com/SpeedTest/7226/Corsair-Voyager-GT-30
+USB,,Toshiba,Ext HDD 1TB,133,26.9,368,https://usb.userbenchmark.com/SpeedTest/4693/Toshiba-Ext-HDD
+USB,,TOSHIBA,External USB 3.0 750GB,134,26.8,1436,https://usb.userbenchmark.com/SpeedTest/2262/TOSHIBA-External-USB-30
+USB,SDCZ73-032G-G46,SanDisk,Ultra Flair USB 3.0 32GB,135,26.8,9708,https://usb.userbenchmark.com/SpeedTest/40935/SanDisk-Ultra-USB-30
+USB,LJDNV16GCRBEU,Lexar,JumpDrive Triton USB 3.0 16GB,136,26.8,33,https://usb.userbenchmark.com/Lexar-JumpDrive-Triton-USB-30-16GB/Rating/1268
+USB,,Clikfree,Backup Drive 2TB,137,26.6,32,https://usb.userbenchmark.com/SpeedTest/9036/Clikfree-Backup-Drive
+USB,,PHD,3.0 Silicon-Power DB 1TB,138,26.5,192,https://usb.userbenchmark.com/SpeedTest/9460/PHD-30-Silicon-Power-DB
+USB,,TOSHIBA,STOR.E ALU 2S 1TB,139,26.4,900,https://usb.userbenchmark.com/SpeedTest/3834/TOSHIBA-STORE-ALU-2S
+USB,,Samsung,M2 Portable 3 750GB,140,26.3,92,https://usb.userbenchmark.com/SpeedTest/4998/Samsung-M2-Portable-3
+USB,,Seagate,Expansion 750GB,141,26.3,232,https://usb.userbenchmark.com/SpeedTest/9822/Seagate-Expansion
+USB,AS102P-64G-RGY,Adata,DashDrive Elite S102 Pro USB 3.0 64GB,142,26.2,587,https://usb.userbenchmark.com/Adata-DashDrive-Elite-S102-Pro-USB-30-64GB/Rating/1642
+USB,,Imation,Apollo M100 USB3 1TB,143,26.1,135,https://usb.userbenchmark.com/SpeedTest/4968/Imation-Apollo-M100-USB3
+USB,,WD,My Book 1130 1TB,144,26,1169,https://usb.userbenchmark.com/SpeedTest/3807/WD-My-Book-1130
+USB,SDCZ73-128G-G46,SanDisk,Ultra Flair USB 3.0 128GB,145,26,982,https://usb.userbenchmark.com/SpeedTest/40153/SanDisk-Ultra-USB-30
+USB,,,HGST 1TB,146,26,1185,https://usb.userbenchmark.com/SpeedTest/8303/HGST
+USB,SDCZ43-064G-G46,SanDisk,Ultra Fit USB 3.0 64GB,147,25.9,10867,https://usb.userbenchmark.com/SanDisk-Ultra-Fit-USB-30-64GB/Rating/2698
+USB,,HGST,Touro Mobile 3.0 1TB,148,25.8,306,https://usb.userbenchmark.com/SpeedTest/6821/HGST-Touro-Mobile-30
+USB,9000146,Lacie,RuggedKey USB 3.0 16GB,149,25.7,33,https://usb.userbenchmark.com/Lacie-RuggedKey-USB-30-16GB/Rating/1345
+USB,DTR30/16GB,Kingston,DataTraveler R3.0 USB 3.0 16GB,150,25.7,500,https://usb.userbenchmark.com/Kingston-DataTraveler-R30-USB-30-16GB/Rating/1435
+USB,,ST310003,40SV 1TB,151,25.7,12,https://usb.userbenchmark.com/SpeedTest/2618/ST310003-40SV
+USB,DTR30/64GB,Kingston,DataTraveler R3.0 USB 3.0 64GB,152,25.7,115,https://usb.userbenchmark.com/Kingston-DataTraveler-R30-USB-30-64GB/Rating/1576
+USB,,Samsung,M3 Portable 500GB,153,25.5,4227,https://usb.userbenchmark.com/SpeedTest/4900/Samsung-M3-Portable
+USB,,WD,Elements 1TB,154,25.5,53734,https://usb.userbenchmark.com/SpeedTest/1440/WD-Elements-1042
+USB,,ADATA,CH11 1TB,155,25.4,813,https://usb.userbenchmark.com/SpeedTest/12837/ADATA-CH11
+USB,DTU30G2/16GB,Kingston,DataTraveler Ultimate USB 3.0 16GB,156,25.4,122,https://usb.userbenchmark.com/Kingston-DataTraveler-Ultimate-USB-30-16GB/Rating/1271
+USB,,Seagate,FreeAgent GoFlex 750GB,157,25.3,298,https://usb.userbenchmark.com/SpeedTest/10825/Seagate-FreeAgent-GoFlex
+USB,,WD,My Passport 0740 1TB,158,25.3,4192,https://usb.userbenchmark.com/SpeedTest/2373/WD-My-Passport-0740
+USB,USM32GQ,Sony,Micro Vault Mach USB 3.0 32GB,159,25.3,246,https://usb.userbenchmark.com/SpeedTest/1466/Sony-Storage-Media
+USB,,HDS72101,0KLA33R RSD HUA 1TB,160,25,3,https://usb.userbenchmark.com/SpeedTest/2619/HDS72101-0KLA33R-RSD-HUA
+USB,,Corsair,Slider 3.0 124GB,161,25,327,https://usb.userbenchmark.com/SpeedTest/6680/Corsair-Slider-30
+USB,,WD,My Passport 500GB,162,25,3251,https://usb.userbenchmark.com/SpeedTest/3029/WD-My-Passport-0748
+USB,,HitachiG,ST 1TB,163,25,709,https://usb.userbenchmark.com/SpeedTest/4440/HitachiG-ST
+USB,SDCZ48-032G,SanDisk,Ultra USB 3.0 32GB,164,25,31112,https://usb.userbenchmark.com/SanDisk-Ultra-USB-30-32GB/Rating/1506
+USB,SDCZ43-032G-G46,SanDisk,Ultra Fit USB 3.0 32GB,165,24.9,12142,https://usb.userbenchmark.com/SanDisk-Ultra-Fit-USB-30-32GB/Rating/2697
+USB,,ADATA,HD710 500GB,166,24.9,335,https://usb.userbenchmark.com/SpeedTest/5080/ADATA-HD710
+USB,DTR30G2/32GB,Kingston,DataTraveler R3.0 G2 USB 3.0 32GB,167,24.7,1168,https://usb.userbenchmark.com/Kingston-DataTraveler-R30-G2-USB-30-32GB/Rating/2427
+USB,,Seagate,Backup+ BK 500GB,168,24.7,699,https://usb.userbenchmark.com/SpeedTest/5909/Seagate-Backup--BK
+USB,,WD,Elements 500GB,169,24.6,10208,https://usb.userbenchmark.com/SpeedTest/2903/WD-Elements-10A8
+USB,,FANTOM,ST1500DL003-9VT1 1.5TB,170,24.5,53,https://usb.userbenchmark.com/SpeedTest/8163/FANTOM-ST1500DL003-9VT1
+USB,,WD,Elements 750GB,171,24.4,317,https://usb.userbenchmark.com/SpeedTest/4327/WD-Elements-1042
+USB,,,,172,24.3,626,https://usb.userbenchmark.com/SpeedTest/10408/
+USB,,WD,My Passport 0740 500GB,173,24.2,3564,https://usb.userbenchmark.com/SpeedTest/2389/WD-My-Passport-0740
+USB,,WD,Elements 2TB,174,24.2,35546,https://usb.userbenchmark.com/SpeedTest/6601/WD-Elements-1048
+USB,,HGST,Touro Mobile 3.0 500GB,175,24.2,122,https://usb.userbenchmark.com/SpeedTest/5588/HGST-Touro-Mobile-30
+USB,AS102P-32G-RGY,Adata,DashDrive Elite S102 Pro USB 3.0 32GB,176,24.1,1733,https://usb.userbenchmark.com/Adata-DashDrive-Elite-S102-Pro-USB-30-32GB/Rating/1612
+USB,,Corsair,Survivor 3.0 32GB,177,24,278,https://usb.userbenchmark.com/SpeedTest/4778/Corsair-Survivor-30
+USB,,Samsung,S2 Portable 3 1TB,178,24,592,https://usb.userbenchmark.com/SpeedTest/6398/Samsung-S2-Portable-3
+USB,,ADATA,HD710 750GB,179,23.9,41,https://usb.userbenchmark.com/SpeedTest/2729/ADATA-HD710
+USB,,WD,My Passport Essential USB 3.0 1TB,180,23.7,2274,https://usb.userbenchmark.com/SpeedTest/1508/WD-My-Passport-0730
+USB,,Seagate,Portable 750GB,181,23.5,83,https://usb.userbenchmark.com/SpeedTest/11316/Seagate-Portable
+USB,AN005P-64G-CGY,Adata,Nobility N005 Pro USB 3.0 64GB,182,23.5,66,https://usb.userbenchmark.com/Adata-Nobility-N005-Pro-USB-30-64GB/Rating/1568
+USB,,TOSHIBA,STOR.E PARTNER 1TB,183,23.3,750,https://usb.userbenchmark.com/SpeedTest/7148/TOSHIBA-STORE-PARTNER
+USB,SDCZ48-016G,SanDisk,Ultra USB 3.0 16GB,184,23.3,19338,https://usb.userbenchmark.com/SanDisk-Ultra-USB-30-16GB/Rating/1658
+USB,USM16GQ,Sony,Micro Vault Mach USB 3.0 16GB,185,23.2,296,https://usb.userbenchmark.com/Sony-Micro-Vault-Mach-USB-30-16GB/Rating/1300
+USB,49805,Verbatim,Store n Go V3 Max USB 3.0 16GB,186,23,37,https://usb.userbenchmark.com/Verbatim-Store-n-Go-V3-Max-USB-30-16GB/Rating/1544
+USB,AN005P-32G-CGY,Adata,Nobility N005 Pro USB 3.0 32GB,187,23,67,https://usb.userbenchmark.com/Adata-Nobility-N005-Pro-USB-30-32GB/Rating/1569
+USB,,WD,My Passport 0740 750GB,188,22.7,457,https://usb.userbenchmark.com/SpeedTest/7630/WD-My-Passport-0740
+USB,,WD,My Passport Essential USB 3.0 750GB,189,22.6,604,https://usb.userbenchmark.com/SpeedTest/3384/WD-My-Passport-0730
+USB,LJDS25-64GABNL,Lexar,JumpDrive S25 USB 3.0 64GB,190,22.4,1616,https://usb.userbenchmark.com/Lexar-JumpDrive-S25-USB-30-64GB/Rating/3531
+USB,LJDS25-64GABEU,Lexar,JumpDrive S25 USB 3.0 64GB,190,22.4,1616,https://usb.userbenchmark.com/Lexar-JumpDrive-S25-USB-30-64GB/Rating/3531
+USB,,HitachiG,ST 500GB,191,22.4,384,https://usb.userbenchmark.com/SpeedTest/2152/HitachiG-ST
+USB,CMFVY3S-32GB,Corsair,Flash Voyager USB 3.0 32GB,192,22.4,392,https://usb.userbenchmark.com/SpeedTest/5153/Corsair-Voyager-30
+USB,,Fantom,External HDD 1.5TB,193,22.3,24,https://usb.userbenchmark.com/SpeedTest/12404/Fantom-External-HDD
+USB,,,HGST 500GB,194,22.3,500,https://usb.userbenchmark.com/SpeedTest/4568/HGST
+USB,AUV150-32G-RRD,Adata,DashDrive UV150 USB 3.0 32GB,195,22.2,1317,https://usb.userbenchmark.com/Adata-DashDrive-UV150-USB-30-32GB/Rating/1880
+USB,,Seagate,FreeAgent GoFlex 1.5TB,196,21.9,758,https://usb.userbenchmark.com/SpeedTest/5406/Seagate-FreeAgent-GoFlex
+USB,,Seagate,Slim BK 500GB,197,21.9,92,https://usb.userbenchmark.com/SpeedTest/7379/Seagate-Slim--BK
+USB,LJDS23-64GABEU,Lexar,JumpDrive S23 USB 3.0 64GB,198,21.8,315,https://usb.userbenchmark.com/Lexar-JumpDrive-S23-USB-30-64GB/Rating/1571
+USB,AUV128-32G-RBE,Adata,DashDrive UV128 USB 3.0 32GB,199,21.7,2283,https://usb.userbenchmark.com/Adata-DashDrive-UV128-USB-30-32GB/Rating/1581
+USB,AUV128-64G-RBE,Adata,DashDrive UV128 USB 3.0 64GB,200,21.7,757,https://usb.userbenchmark.com/SpeedTest/3052/ADATA-USB-Flash-Drive
+USB,,Seagate,Backup+ BK 1.5TB,201,21.7,113,https://usb.userbenchmark.com/SpeedTest/6263/Seagate-Backup--BK
+USB,SDCZ73-016G-G46,SanDisk,Ultra Flair USB 3.0 16GB,202,21.7,10069,https://usb.userbenchmark.com/SpeedTest/42837/SanDisk-Ultra-USB-30
+USB,,PNY,USB 3.0 FD 32GB,203,21.6,290,https://usb.userbenchmark.com/SpeedTest/4970/PNY-USB-30-FD
+USB,,Seagate,USB 3.0 Cable 1.5TB,204,21.5,214,https://usb.userbenchmark.com/SpeedTest/10623/Seagate-USB-30-Cable
+USB,DTU30G2/64GB,Kingston,DataTraveler Ultimate USB 3.0 64GB,205,21.3,33,https://usb.userbenchmark.com/SpeedTest/2101/Kingston-DT-Ultimate-G2
+USB,SDCZ43-016G-G46,SanDisk,Ultra Fit USB 3.0 16GB,206,21.3,9957,https://usb.userbenchmark.com/SanDisk-Ultra-Fit-USB-30-16GB/Rating/2694
+USB,,WD,My Passport Essential USB 3.0 500GB,207,21,2733,https://usb.userbenchmark.com/SpeedTest/2140/WD-My-Passport-0730
+USB,LJDS25-32GABNL,Lexar,JumpDrive S25 USB 3.0 32GB,208,20.9,3489,https://usb.userbenchmark.com/Lexar-JumpDrive-S25-USB-30-32GB/Rating/3530
+USB,LJDS25-32GABEU,Lexar,JumpDrive S25 USB 3.0 32GB,208,20.9,3489,https://usb.userbenchmark.com/Lexar-JumpDrive-S25-USB-30-32GB/Rating/3530
+USB,49806,Verbatim,Store n Go V3 Max USB 3.0 32GB,209,20.8,77,https://usb.userbenchmark.com/Verbatim-Store-n-Go-V3-Max-USB-30-32GB/Rating/1573
+USB,,Seagate,Portable 1.5TB,210,20.8,235,https://usb.userbenchmark.com/SpeedTest/3291/Seagate-Portable
+USB,LJDS23-32GABEU,Lexar,JumpDrive S23 USB 3.0 32GB,211,20.7,593,https://usb.userbenchmark.com/Lexar-JumpDrive-S23-USB-30-32GB/Rating/1572
+USB,DTR30/32GB,Kingston,DataTraveler R3.0 USB 3.0 32GB,212,20.7,356,https://usb.userbenchmark.com/Kingston-DataTraveler-R30-USB-30-32GB/Rating/1577
+USB,,Seagate,FreeAgent GoFlex 1TB,213,20.4,3508,https://usb.userbenchmark.com/SpeedTest/4081/Seagate-FreeAgent-GoFlex
+USB,CMFVYGT3A-16GB,Corsair,Flash Voyager GT USB 3.0 16GB,214,20.4,111,https://usb.userbenchmark.com/Corsair-Flash-Voyager-GT-USB-30-16GB/Rating/1272
+USB,,JetFlash,Transcend 32GB,215,20.3,10422,https://usb.userbenchmark.com/SpeedTest/1255/JetFlash-Transcend-32GB
+USB,,Kingston,SNA-DC/U 500GB,216,20.2,833,https://usb.userbenchmark.com/SpeedTest/1256/Kingston-SNA-DCU
+USB,AS107-32G-RBL,Adata,S107 USB 3.0 32GB,217,20.1,121,https://usb.userbenchmark.com/SpeedTest/5164/ADATA-USB-Flash-Drive
+USB,CMFSV3-32GB,Corsair,Flash Survivor USB 3.0 32GB,218,19.8,245,https://usb.userbenchmark.com/SpeedTest/3907/Corsair-Survivor-30
+USB,,Hitachi,HTS543225L9A300 250GB,219,19.8,6,https://usb.userbenchmark.com/SpeedTest/7573/Hitachi-HTS543225L9A300
+USB,CMFVV3-32GB,Corsair,Flash Voyager Vega USB 3.0 32GB,220,19.5,163,https://usb.userbenchmark.com/SpeedTest/16103/Corsair-Voyager-VEGA
+USB,,Corsair,Survivor 3.0 16GB,221,19.5,124,https://usb.userbenchmark.com/SpeedTest/4762/Corsair-Survivor-30
+USB,,WD,My Passport Essential USB 3.0 320GB,222,19.3,231,https://usb.userbenchmark.com/SpeedTest/7249/WD-My-Passport-0730
+USB,,TS-RDF5,SD Transcend 32GB,223,19.3,1073,https://usb.userbenchmark.com/SpeedTest/1141/TS-RDF5-SD--Transcend
+USB,,MUSHKIN,MKNUFDAM32GB 32GB,224,19.2,46,https://usb.userbenchmark.com/SpeedTest/6798/MUSHKIN-MKNUFDAM32GB
+USB,,FCR-HS3,-0 16GB,225,19.1,32,https://usb.userbenchmark.com/SpeedTest/7021/FCR-HS3--------0
+USB,,TOSHIBA,MK5075GSX 500GB,226,19.1,200,https://usb.userbenchmark.com/SpeedTest/2025/TOSHIBA-MK5075GSX
+USB,,WD,My Book 500GB,227,19,3970,https://usb.userbenchmark.com/SpeedTest/1601/WD-5000AAV-External
+USB,,WD,My Book 640GB,228,19,1008,https://usb.userbenchmark.com/SpeedTest/8636/WD-6400AAC-External
+USB,49174,Verbatim,Store n Go V3 USB 3.0 64GB,229,18.9,1142,https://usb.userbenchmark.com/Verbatim-Store-n-Go-V3-USB-30-64GB/Rating/1472
+USB,PSF32GXPUSB,Patriot,Supersonic Xpress USB 3.0 32GB,230,18.8,265,https://usb.userbenchmark.com/SpeedTest/2711/Patriot-Memory
+USB,,Seagate,USB 2.0 Cable 500GB,231,18.7,184,https://usb.userbenchmark.com/SpeedTest/6667/Seagate-USB-20-Cable
+USB,LJDS25-16GABNL,Lexar,JumpDrive S25 USB 3.0 16GB,232,18.7,1737,https://usb.userbenchmark.com/Lexar-JumpDrive-S25-USB-30-16GB/Rating/3529
+USB,LJDS25-16GABEU,Lexar,JumpDrive S25 USB 3.0 16GB,232,18.7,1737,https://usb.userbenchmark.com/Lexar-JumpDrive-S25-USB-30-16GB/Rating/3529
+USB,,Lexar,JumpDrive 16GB,233,18.6,164,https://usb.userbenchmark.com/SpeedTest/2182/Lexar-JumpDrive
+USB,,MICRONET,FANTOM DRIVE 2TB,234,18.5,247,https://usb.userbenchmark.com/SpeedTest/4927/MICRONET-FANTOM-DRIVE
+USB,,Seagate,FreeAgent GoFlex 500GB,235,18.5,3849,https://usb.userbenchmark.com/SpeedTest/1147/Seagate-FreeAgent-GoFlex
+USB,,WD,My Book 2TB,236,18.5,433,https://usb.userbenchmark.com/SpeedTest/3665/WD-My-Book
+USB,,Kingston,DataTraveler 3.0 32GB,237,18.4,30,https://usb.userbenchmark.com/SpeedTest/2312/Kingston-DataTraveler-30
+USB,DT100G3/64GB,Kingston,DataTraveler 100 G3 USB 3.0 64GB,238,18.4,22614,https://usb.userbenchmark.com/SpeedTest/1742/Kingston-DataTraveler-30
+USB,,WD,My Book 1TB,239,18.4,9579,https://usb.userbenchmark.com/SpeedTest/3236/WD-10EAVS-External
+USB,INFD16GBNEONOR3.0,Integral,Neon USB 3.0 16GB,240,18.2,800,https://usb.userbenchmark.com/Integral-Neon-USB-30-16GB/Rating/1484
+USB,,TOSHIBA,TransMemory-Mx 64GB,241,18.1,296,https://usb.userbenchmark.com/SpeedTest/5913/TOSHIBA-TransMemory-Mx
+USB,,Seagate,Desktop 500GB,242,18.1,1652,https://usb.userbenchmark.com/SpeedTest/4085/Seagate-Desktop
+USB,,WD,10EACS External 1TB,243,18.1,348,https://usb.userbenchmark.com/SpeedTest/10194/WD-10EACS-External
+USB,CMFVY3S-16GB,Corsair,Flash Voyager USB 3.0 16GB,244,18.1,363,https://usb.userbenchmark.com/Corsair-Flash-Voyager-USB-30-16GB/Rating/1269
+USB,,Corsair,Slider 3.0 64GB,245,18,297,https://usb.userbenchmark.com/SpeedTest/4333/Corsair-Slider-30
+USB,49172,Verbatim,Store n Go V3 USB 3.0 16GB,246,18,2337,https://usb.userbenchmark.com/Verbatim-Store-n-Go-V3-USB-30-16GB/Rating/1347
+USB,,WD,5000AAV External 500GB,247,18,364,https://usb.userbenchmark.com/SpeedTest/9377/WD-5000AAV-External
+USB,,STECH,Simple Drive 500GB,248,17.9,50,https://usb.userbenchmark.com/SpeedTest/4961/STECH-Simple-Drive
+USB,,TOSHIBA,USB DRV 14GB,249,17.8,9,https://usb.userbenchmark.com/SpeedTest/9342/TOSHIBA-TOSHIBA-USB-DRV
+USB,,WD,My Book 320GB,250,17.8,360,https://usb.userbenchmark.com/SpeedTest/7412/WD-3200AAV-External
+USB,,WD,3200AAC External 320GB,251,17.8,14,https://usb.userbenchmark.com/SpeedTest/4012/WD-3200AAC-External
+USB,,WD,My Book 750GB,252,17.7,367,https://usb.userbenchmark.com/SpeedTest/8123/WD-7500AAC-External
+USB,,Samsung,G3 Station 2TB,253,17.7,477,https://usb.userbenchmark.com/SpeedTest/6390/Samsung-G3-Station
+USB,,FUJITSU,MJA2500BH G2 500GB,254,17.7,4,https://usb.userbenchmark.com/SpeedTest/2841/FUJITSU-MJA2500BH-G2
+USB,,Seagate,FreeAgent 500GB,255,17.6,725,https://usb.userbenchmark.com/SpeedTest/8181/Seagate-FreeAgent
+USB,,Lexar,SD USB_3_0 Read 16GB,256,17.6,69,https://usb.userbenchmark.com/SpeedTest/6659/Lexar-SD--USB-3-0-Read
+USB,,WD,15EARS External 1.5TB,257,17.6,273,https://usb.userbenchmark.com/SpeedTest/4158/WD-15EARS-External
+USB,,WD,5000AAD External 500GB,258,17.5,279,https://usb.userbenchmark.com/SpeedTest/3176/WD-5000AAD-External
+USB,,WD,5000AAK External 500GB,259,17.5,114,https://usb.userbenchmark.com/SpeedTest/3775/WD-5000AAK-External
+USB,,WD,5000AAJ External 500GB,260,17.4,157,https://usb.userbenchmark.com/SpeedTest/9524/WD-5000AAJ-External
+USB,,Hammer,Morespace 1TB,261,17.4,52,https://usb.userbenchmark.com/SpeedTest/3796/Hammer-Morespace
+USB,,WD,Elements 1.5TB,262,17.4,4829,https://usb.userbenchmark.com/SpeedTest/1906/WD-Ext-HDD-1021
+USB,,Seagate,FreeAgent XTreme 1.5TB,263,17.3,120,https://usb.userbenchmark.com/SpeedTest/4363/Seagate-FreeAgent-XTreme
+USB,,WD,10EADS External 1TB,264,17.3,3400,https://usb.userbenchmark.com/SpeedTest/2848/WD-10EADS-External
+USB,49173,Verbatim,Store n Go V3 USB 3.0 32GB,265,17.3,2424,https://usb.userbenchmark.com/Verbatim-Store-n-Go-V3-USB-30-32GB/Rating/1471
+USB,,Samsung,G2 Portable 500GB,266,17.2,745,https://usb.userbenchmark.com/SpeedTest/4274/Samsung-G2-Portable
+USB,,PI-239,USB 2.0 Drive 1TB,267,17.2,695,https://usb.userbenchmark.com/SpeedTest/3684/PI-239-USB-20-Drive
+USB,,Samsung,G2 Portable 400GB,268,17.1,47,https://usb.userbenchmark.com/SpeedTest/3553/Samsung-G2-Portable
+USB,,Samsung,S2 Portable 500GB,269,17.1,2540,https://usb.userbenchmark.com/SpeedTest/4989/Samsung-S2-Portable
+USB,,JetFlash,Transcend 64GB,270,17,3421,https://usb.userbenchmark.com/SpeedTest/2878/JetFlash-Transcend-64GB
+USB,,WD,1600BEV External 160GB,271,16.9,418,https://usb.userbenchmark.com/SpeedTest/6588/WD-1600BEV-External
+USB,,WD,My Book Essentials 2TB,272,16.9,1592,https://usb.userbenchmark.com/SpeedTest/4485/WD-My-Book-1110
+USB,,Seagate,Desktop 1TB,273,16.9,4523,https://usb.userbenchmark.com/SpeedTest/1345/Seagate-Desktop
+USB,,Samsung,STORY Station 1TB,274,16.9,616,https://usb.userbenchmark.com/SpeedTest/8847/Samsung-STORY-Station
+USB,,,FV-U35 1TB,275,16.9,84,https://usb.userbenchmark.com/SpeedTest/4300/FV-U35
+USB,DTE30/16GB,Kingston,DataTraveler Elite USB 3.0 16GB,276,16.9,136,https://usb.userbenchmark.com/Kingston-DataTraveler-Elite-USB-30-16GB/Rating/1293
+USB,,WD,10EARS External 1TB,277,16.9,113,https://usb.userbenchmark.com/SpeedTest/7047/WD-10EARS-External
+USB,,Samsung,G3 Station 1TB,278,16.9,449,https://usb.userbenchmark.com/SpeedTest/5021/Samsung-G3-Station
+USB,,TOSHIBA,USB 3.5"-HDD 1TB,279,16.9,607,https://usb.userbenchmark.com/SpeedTest/6612/TOSHIBA-USB-35--HDD
+USB,CMFSV3-16GB,Corsair,Flash Survivor USB 3.0 16GB,280,16.8,123,https://usb.userbenchmark.com/Corsair-Flash-Survivor-USB-30-16GB/Rating/1277
+USB,,WD,2500BMV External 250GB,281,16.8,486,https://usb.userbenchmark.com/SpeedTest/4646/WD-2500BMV-External
+USB,DT100G3/32GB,Kingston,DataTraveler 100 G3 USB 3.0 32GB,282,16.8,56894,https://usb.userbenchmark.com/SpeedTest/1510/Kingston-DataTraveler-30
+USB,LJDS23-16GABEU,Lexar,JumpDrive S23 USB 3.0 16GB,283,16.8,491,https://usb.userbenchmark.com/Lexar-JumpDrive-S23-USB-30-16GB/Rating/1549
+USB,,WD,6400AAK External 640GB,284,16.7,140,https://usb.userbenchmark.com/SpeedTest/2532/WD-6400AAK-External
+USB,AS102P-16G-RGY,Adata,S102 Pro USB 3.0 16GB,285,16.7,1620,https://usb.userbenchmark.com/Adata-S102-Pro-USB-30-16GB/Rating/1346
+USB,,WD,5000BMV External 500GB,286,16.7,458,https://usb.userbenchmark.com/SpeedTest/1281/WD-5000BMV-External
+USB,,WD,3200BMV External 320GB,287,16.6,806,https://usb.userbenchmark.com/SpeedTest/5495/WD-3200BMV-External
+USB,,Maxtor,OneTouch 500GB,288,16.6,727,https://usb.userbenchmark.com/SpeedTest/4159/Maxtor-OneTouch
+USB,,WD,My Book Essentials 1.5TB,289,16.6,1044,https://usb.userbenchmark.com/SpeedTest/4848/WD-My-Book-1110
+USB,,WD,My Book Essentials 1TB,290,16.6,3750,https://usb.userbenchmark.com/SpeedTest/2793/WD-My-Book-1110
+USB,,Samsung,STORY Station 1.5TB,291,16.5,869,https://usb.userbenchmark.com/SpeedTest/3139/Samsung-STORY-Station
+USB,,Corsair,Slider 3.0 32GB,292,16.5,510,https://usb.userbenchmark.com/SpeedTest/3644/Corsair-Slider-30
+USB,,WD,My Book Elite 2TB,293,16.4,286,https://usb.userbenchmark.com/SpeedTest/1251/WD-My-Book-1111
+USB,,Samsung,S2 Portable 320GB,294,16.4,962,https://usb.userbenchmark.com/SpeedTest/7054/Samsung-S2-Portable
+USB,,Seagate,FreeAgent Pro 500GB,295,16.2,41,https://usb.userbenchmark.com/SpeedTest/4188/Seagate-FreeAgent-Pro
+USB,,WD,My Book Elite 1TB,296,16.2,758,https://usb.userbenchmark.com/SpeedTest/4963/WD-My-Book-1111
+USB,,Toshiba,StorE HDD 1.5TB,297,16.2,103,https://usb.userbenchmark.com/SpeedTest/9515/Toshiba-StorE-HDD
+USB,,Sony,Storage Media 32GB,298,16.1,237,https://usb.userbenchmark.com/SpeedTest/1992/Sony-Storage-Media
+USB,,WD,1600BEVExternal 160GB,299,16,207,https://usb.userbenchmark.com/SpeedTest/3232/WD-1600BEVExternal
+USB,,Samsung,S2 Portable 1TB,300,16,1504,https://usb.userbenchmark.com/SpeedTest/3753/Samsung-S2-Portable
+USB,,HP,External HDD 999GB,301,15.9,993,https://usb.userbenchmark.com/SpeedTest/2612/HP-External-HDD
+USB,,WD,15EADS External 1.5TB,302,15.9,1383,https://usb.userbenchmark.com/SpeedTest/3490/WD-15EADS-External
+USB,,A-DATA,HDD CH91 320GB,303,15.9,19,https://usb.userbenchmark.com/SpeedTest/4535/A-DATA-HDD-CH91
+USB,AUV150-16G-RRD,Adata,DashDrive UV150 USB 3.0 16GB,304,15.9,1274,https://usb.userbenchmark.com/Adata-DashDrive-UV150-USB-30-16GB/Rating/1879
+USB,,Packard,Bell Carbon 1TB,305,15.9,418,https://usb.userbenchmark.com/SpeedTest/2124/Packard-Bell-Carbon
+USB,,Maxtor,Basics Desktop 1TB,306,15.8,402,https://usb.userbenchmark.com/SpeedTest/3444/Maxtor-Basics-Desktop
+USB,AUV128-16G-RBE,Adata,DashDrive UV128 USB 3.0 16GB,307,15.7,2412,https://usb.userbenchmark.com/SpeedTest/1986/ADATA-USB-Flash-Drive
+USB,,Samsung,S2 Portable 640GB,308,15.7,699,https://usb.userbenchmark.com/SpeedTest/4055/Samsung-S2-Portable
+USB,,BUFFALO,HD-PCU2 500GB,309,15.6,440,https://usb.userbenchmark.com/SpeedTest/3877/BUFFALO-HD-PCU2
+USB,,Seagate,FreeAgent GoFlex 250GB,310,15.6,211,https://usb.userbenchmark.com/SpeedTest/12253/Seagate-FreeAgent-GoFlex
+USB,,BUFFALO,HD-PCU2 1TB,311,15.6,271,https://usb.userbenchmark.com/SpeedTest/1252/BUFFALO-HD-PCU2
+USB,,Hitachi,HTS545050B9A300 500GB,312,15.6,381,https://usb.userbenchmark.com/SpeedTest/8344/Hitachi-HTS545050B9A300
+USB,,Kingston,DataTraveler 3.0 126GB,313,15.5,362,https://usb.userbenchmark.com/SpeedTest/8363/Kingston-DataTraveler-30
+USB,,Toshiba,External USB HDD 500GB,314,15.5,623,https://usb.userbenchmark.com/SpeedTest/2565/Toshiba-External-USB-HDD
+USB,,WD,My Passport Essential 320GB,315,15.5,769,https://usb.userbenchmark.com/SpeedTest/6315/WD-My-Passport-070A
+USB,AS102-16G-RGY,Adata,S102 USB 3.0 16GB,316,15.5,198,https://usb.userbenchmark.com/SpeedTest/2953/ADATA-USB-Flash-Drive
+USB,AN005P-16G-CGY,Adata,Nobility N005 Pro USB 3.0 16GB,317,15.4,57,https://usb.userbenchmark.com/Adata-Nobility-N005-Pro-USB-30-16GB/Rating/1274
+USB,,Maxtor,OneTouch 750GB,318,15.4,325,https://usb.userbenchmark.com/SpeedTest/2359/Maxtor-OneTouch
+USB,,Samsung,G2 Portable 640GB,319,15.3,433,https://usb.userbenchmark.com/SpeedTest/3669/Samsung-G2-Portable
+USB,BUSLPD3016R,Busbi,Bolt USB 3.0 16GB,320,15.3,1,https://usb.userbenchmark.com/Busbi-Bolt-USB-30-16GB/Rating/1341
+USB,,Seagate,Portable 250GB,321,15.3,702,https://usb.userbenchmark.com/SpeedTest/6649/Seagate-Portable
+USB,,Seagate,FreeAgent XTreme 2TB,322,15.2,43,https://usb.userbenchmark.com/SpeedTest/6547/Seagate-FreeAgent-XTreme
+USB,,WD,My Passport Elite 500GB,323,15.2,347,https://usb.userbenchmark.com/SpeedTest/5158/WD-My-Passport-070B
+USB,,PHD,2.0 Silicon-Power DB 500GB,324,15.2,44,https://usb.userbenchmark.com/SpeedTest/9923/PHD-20-Silicon-Power-DB
+USB,,Leef,Supra 32GB,325,15.2,9,https://usb.userbenchmark.com/SpeedTest/5926/Leef-Supra
+USB,,WD,My Passport 071A 500GB,326,15.2,1002,https://usb.userbenchmark.com/SpeedTest/1488/WD-My-Passport-071A
+USB,,Apacer,AC601 320GB,327,15.2,34,https://usb.userbenchmark.com/SpeedTest/12069/Apacer-AC601
+USB,,IT-CEO,USB2.0SATADevice 500GB,328,15.2,87,https://usb.userbenchmark.com/SpeedTest/12490/IT-CEO-USB20SATADevice
+USB,,WD,My Passport 071A 1TB,329,15.2,565,https://usb.userbenchmark.com/SpeedTest/6503/WD-My-Passport-071A
+USB,,Seagate,FreeAgent Go 500GB,330,15.1,2062,https://usb.userbenchmark.com/SpeedTest/1786/Seagate-FreeAgent-Go
+USB,,Maxtor,Basics Desktop 500GB,331,15.1,435,https://usb.userbenchmark.com/SpeedTest/5421/Maxtor-Basics-Desktop
+USB,,ADATA,HDD CH94 500GB,332,15.1,291,https://usb.userbenchmark.com/SpeedTest/6060/ADATA-HDD-CH94
+USB,LJDS23-8GABEU,Lexar,JumpDrive S23 USB 3.0 8GB,333,15,129,https://usb.userbenchmark.com/SpeedTest/1499/Lexar-USB-Flash-Drive
+USB,,SAMSUNG,HD501LJ 500GB,334,15,104,https://usb.userbenchmark.com/SpeedTest/4007/SAMSUNG-HD501LJ
+USB,,FCR-HS3,-1 16GB,335,15,75,https://usb.userbenchmark.com/SpeedTest/10799/FCR-HS3--------1
+USB,,BUFFALO,HD-PXU2 499GB,336,15,38,https://usb.userbenchmark.com/SpeedTest/8186/BUFFALO-HD-PXU2
+USB,MKNUFDVT16GB,Mushkin,Ventura USB 3.0 16GB,337,15,8,https://usb.userbenchmark.com/Mushkin-Ventura-USB-30-16GB/Rating/1296
+USB,,WD,5000AAJB Externa 500GB,338,15,36,https://usb.userbenchmark.com/SpeedTest/2703/WD-5000AAJB-Externa
+USB,,Seagate,Desktop 1.5TB,339,15,559,https://usb.userbenchmark.com/SpeedTest/3941/Seagate-Desktop
+USB,,,SecureLock 64GB,340,14.9,12,https://usb.userbenchmark.com/SpeedTest/8002/SecureLock
+USB,PSF16GXPUSB,Patriot,Supersonic Xpress USB 3.0 16GB,341,14.9,88,https://usb.userbenchmark.com/Patriot-Supersonic-Xpress-USB-30-16GB/Rating/1273
+USB,,WD,My Passport 071A 250GB,342,14.9,120,https://usb.userbenchmark.com/SpeedTest/5046/WD-My-Passport-071A
+USB,,SPCC,PHD 320GB,343,14.9,53,https://usb.userbenchmark.com/SpeedTest/6173/SPCC-PHD
+USB,ST3U16EDB,Super Talent,Express DUO USB 3.0 16GB,344,14.8,26,https://usb.userbenchmark.com/Super-Talent-Express-DUO-USB-30-16GB/Rating/39
+USB,,WD,1200BEA External 120GB,345,14.8,49,https://usb.userbenchmark.com/SpeedTest/10946/WD-1200BEA-External
+USB,,Seagate,Portable 320GB,346,14.8,747,https://usb.userbenchmark.com/SpeedTest/4645/Seagate-Portable
+USB,,WD,My Passport Essential 500GB,347,14.8,1343,https://usb.userbenchmark.com/SpeedTest/3986/WD-My-Passport-070A
+USB,,Seagate,FreeAgent 2TB,348,14.8,363,https://usb.userbenchmark.com/SpeedTest/9303/Seagate-FreeAgent
+USB,,Corsair,Voyager Mini 3.0 16GB,349,14.6,178,https://usb.userbenchmark.com/SpeedTest/5329/Corsair-Voyager-Mini-30
+USB,,Seagate,FreeAgent Go 320GB,350,14.5,1158,https://usb.userbenchmark.com/SpeedTest/7077/Seagate-FreeAgent-Go
+USB,,Kingston,DT microDuo 3.0 16GB,351,14.5,1076,https://usb.userbenchmark.com/SpeedTest/12572/Kingston-DT-microDuo-30
+USB,,TOSHIBA,TransMemory-Mx 32GB,352,14.5,607,https://usb.userbenchmark.com/SpeedTest/2142/TOSHIBA-TransMemory-Mx
+USB,,WDC,WD16 00BEVS-60RST0 160GB,353,14.4,31,https://usb.userbenchmark.com/SpeedTest/10026/WDC-WD16-00BEVS-60RST0
+USB,,Maxtor,Basics Portable 250GB,354,14.4,100,https://usb.userbenchmark.com/SpeedTest/10334/Maxtor-Basics-Portable
+USB,,Corsair,Slider 3.0 16GB,355,14.3,226,https://usb.userbenchmark.com/SpeedTest/1196/Corsair-Slider-30
+USB,,Seagate,FreeAgentDesktop 320GB,356,14.2,286,https://usb.userbenchmark.com/SpeedTest/3261/Seagate-FreeAgentDesktop
+USB,,WD,1600BEA External 160GB,357,14.1,74,https://usb.userbenchmark.com/SpeedTest/12871/WD-1600BEA-External
+USB,,Seagate,FreeAgentDesktop 250GB,358,14.1,625,https://usb.userbenchmark.com/SpeedTest/3122/Seagate-FreeAgentDesktop
+USB,,WD,5000AAKB Externa 500GB,359,14.1,108,https://usb.userbenchmark.com/SpeedTest/11686/WD-5000AAKB-Externa
+USB,,Seagate,FreeAgentDesktop 500GB,360,14,1330,https://usb.userbenchmark.com/SpeedTest/1269/Seagate-FreeAgentDesktop
+USB,,Toshiba,StorE HDD 500GB,361,13.9,375,https://usb.userbenchmark.com/SpeedTest/8768/Toshiba-StorE-HDD
+USB,,Seagate,FA GoFlex Desk 1.5TB,362,13.9,742,https://usb.userbenchmark.com/SpeedTest/6129/Seagate-FA-GoFlex-Desk
+USB,49171,Verbatim,Store n Go V3 USB 3.0 8GB,363,13.9,662,https://usb.userbenchmark.com/SpeedTest/1152/Verbatim-STORE-N-GO
+USB,,Seagate,Desktop 2TB,364,13.9,3504,https://usb.userbenchmark.com/SpeedTest/3622/Seagate-Desktop
+USB,,hp,x705w 16GB,365,13.8,145,https://usb.userbenchmark.com/SpeedTest/6023/hp-x705w
+USB,,Seagate,Portable 1.5TB,366,13.8,141,https://usb.userbenchmark.com/SpeedTest/10698/Seagate-Portable
+USB,,TOSHIBA,MSFT NORB 8GB,367,13.5,41,https://usb.userbenchmark.com/SpeedTest/11462/TOSHIBA-MSFT-NORB
+USB,,TrekStor,DS pocket light 500GB,368,13.5,104,https://usb.userbenchmark.com/SpeedTest/6291/TrekStor-DS-pocket-light
+USB,,Corsair,Voyager GT 3.0 16GB,369,13.5,74,https://usb.userbenchmark.com/SpeedTest/2616/Corsair-Voyager-GT-30
+USB,LJDS73-64GABEU,Lexar,JumpDrive S73 USB 3.0 64GB,370,13.5,343,https://usb.userbenchmark.com/Lexar-JumpDrive-S73-USB-30-64GB/Rating/1474
+USB,,Toshiba,StorE HDD 1TB,371,13.5,251,https://usb.userbenchmark.com/SpeedTest/5210/Toshiba-StorE-HDD
+USB,LJDS73-32GABEU,Lexar,JumpDrive S73 USB 3.0 32GB,372,13.3,637,https://usb.userbenchmark.com/Lexar-JumpDrive-S73-USB-30-32GB/Rating/1473
+USB,,Maxtor,3200 320GB,373,13.3,295,https://usb.userbenchmark.com/SpeedTest/5999/Maxtor-3200
+USB,SP064GBUF3B10V1B,Silicon,Power Blaze B10 USB 3.0 64GB,374,13.1,7,https://usb.userbenchmark.com/SpeedTest/4677/UFD-30-Silicon-Power64G
+USB,DT100G3/16GB,Kingston,DataTraveler 100 G3 USB 3.0 16GB,375,13.1,61185,https://usb.userbenchmark.com/Kingston-DataTraveler-100-G3-USB-30-16GB/Rating/1521
+USB,00108025,Hama,Probo USB 3.0 16GB,376,13,19,https://usb.userbenchmark.com/Hama-Probo-USB-30-16GB/Rating/1294
+USB,,TOSHIBA,TransMemory-Mx 16GB,377,13,470,https://usb.userbenchmark.com/SpeedTest/6641/TOSHIBA-TransMemory-Mx
+USB,,JetFlash,Transcend 16GB,378,12.8,14629,https://usb.userbenchmark.com/SpeedTest/1099/JetFlash-Transcend-16GB
+USB,PD-09,Kingmax,Pop Series USB 3.0 16GB,379,12.8,66,https://usb.userbenchmark.com/Kingmax-Pop-Series-USB-30-16GB/Rating/1359
+USB,,Linux,File-Stor Gadget 1TB,380,12.8,22,https://usb.userbenchmark.com/SpeedTest/8188/Linux-File-Stor-Gadget
+USB,3530470,Intenso,Speed Line USB 3.0 16GB,381,12.7,188,https://usb.userbenchmark.com/Intenso-Speed-Line-USB-30-16GB/Rating/1349
+USB,USM8GQ,Sony,Micro Vault Mach USB 3.0 8GB,382,12.7,76,https://usb.userbenchmark.com/SpeedTest/3001/Sony-Storage-Media
+USB,,SanDisk,Cruzer Glide 64GB,383,12.6,7266,https://usb.userbenchmark.com/SpeedTest/2866/SanDisk-Cruzer-Glide
+USB,,Seagate,GoFlex Cinema 2TB,384,12.5,24,https://usb.userbenchmark.com/SpeedTest/3677/Seagate-GoFlex-Cinema
+USB,,Innostor,Innostor 16GB,385,12.4,142,https://usb.userbenchmark.com/SpeedTest/12111/Innostor-Innostor
+USB,PEF16GSBUSB,Patriot,Supersonic Boost XT USB 3.0 16GB,386,12.4,176,https://usb.userbenchmark.com/Patriot-Supersonic-Boost-XT-USB-30-16GB/Rating/1291
+USB,,SanDisk,Cruzer Glide 32GB,387,12.3,20997,https://usb.userbenchmark.com/SpeedTest/3933/SanDisk-Cruzer-Glide
+USB,,SRT,USB 3.0 JET 16G 16GB,388,12.2,110,https://usb.userbenchmark.com/SpeedTest/2810/SRT-USB-30-JET-16G
+USB,,Kingston,DataTraveler 111 64GB,389,12,26,https://usb.userbenchmark.com/SpeedTest/9144/Kingston-DataTraveler-111
+USB,DT100G3/8GB,Kingston,DataTraveler 100 G3 USB 3.0 8GB,390,12,14112,https://usb.userbenchmark.com/SpeedTest/1315/Kingston-DataTraveler-30
+USB,,OCZ,ATV_TURBO 4GB,391,12,6,https://usb.userbenchmark.com/SpeedTest/3967/OCZ-ATV-TURBO
+USB,,SanDisk,Cruzer Blade 32GB,392,12,32642,https://usb.userbenchmark.com/SpeedTest/1919/SanDisk-Cruzer-Blade
+USB,,SanDisk,Cruzer 64GB,393,11.9,3127,https://usb.userbenchmark.com/SpeedTest/6685/SanDisk-Cruzer
+USB,DT111/32GB,Kingston,DataTraveler 111 USB 3.0 32GB,394,11.9,118,https://usb.userbenchmark.com/Kingston-DataTraveler-111-USB-30-32GB/Rating/1575
+USB,,Kingston,DataTraveler 111 32GB,395,11.9,59,https://usb.userbenchmark.com/SpeedTest/3188/Kingston-DataTraveler-111
+USB,AS102P-8G-RGY,Adata,S102 Pro USB 3.0 8GB,396,11.9,239,https://usb.userbenchmark.com/SpeedTest/2974/ADATA-USB-Flash-Drive
+USB,AUV128-8G-RBE,Adata,DashDrive UV128 USB 3.0 8GB,397,11.8,389,https://usb.userbenchmark.com/SpeedTest/4062/ADATA-USB-Flash-Drive
+USB,,Leef,Magnet 16GB,398,11.6,10,https://usb.userbenchmark.com/SpeedTest/10717/Leef-Magnet
+USB,,SanDisk,Cruzer Glide 16GB,399,11.5,31578,https://usb.userbenchmark.com/SpeedTest/2718/SanDisk-Cruzer-Glide
+USB,,Kingston,DataTraveler 111 16GB,400,11.4,46,https://usb.userbenchmark.com/SpeedTest/6936/Kingston-DataTraveler-111
+USB,PSF16GLSEL3USB,Patriot,Element USB 3.0 16GB,401,11.4,12,https://usb.userbenchmark.com/Patriot-Element-USB-30-16GB/Rating/1460
+USB,,Kingston,DT R500 16GB,402,11.3,310,https://usb.userbenchmark.com/SpeedTest/1794/Kingston-DT-R500
+USB,,SanDisk,Cruzer Blade 16GB,403,11.3,59106,https://usb.userbenchmark.com/SpeedTest/1349/SanDisk-Cruzer-Blade
+USB,,Kingston,DT R500 32GB,404,11.2,71,https://usb.userbenchmark.com/SpeedTest/3036/Kingston-DT-R500
+USB,,SanDisk,Cruzer Force 32GB,405,11.1,3944,https://usb.userbenchmark.com/SpeedTest/5195/SanDisk-Cruzer-Force
+USB,,Kingston,DataTraveler 111 16GB,406,11.1,165,https://usb.userbenchmark.com/SpeedTest/3431/Kingston-DataTraveler-111
+USB,,SanDisk,Cruzer 32GB,407,11.1,3028,https://usb.userbenchmark.com/SpeedTest/1509/SanDisk-Cruzer
+USB,LJDS73-16GABEU,Lexar,JumpDrive S73 USB 3.0 16GB,408,10.9,446,https://usb.userbenchmark.com/Lexar-JumpDrive-S73-USB-30-16GB/Rating/1280
+USB,U819V,PQI,Intelligent Drive Micro USB 3.0 16GB,409,10.9,359,https://usb.userbenchmark.com/PQI-Intelligent-Drive-Micro-USB-30-16GB/Rating/1451
+USB,SP016GBUF3B10V1B,Silicon Power,Blaze B10 USB 3.0 16GB,410,10.8,183,https://usb.userbenchmark.com/Silicon-Power-Blaze-B10-USB-30-16GB/Rating/1292
+USB,DT111/16GB,Kingston,DataTraveler 111 USB 3.0 16GB,411,10.8,268,https://usb.userbenchmark.com/Kingston-DataTraveler-111-USB-30-16GB/Rating/1423
+USB,,SanDisk,Cruzer Force 16GB,412,10.7,5231,https://usb.userbenchmark.com/SpeedTest/4505/SanDisk-Cruzer-Force
+USB,,SanDisk,Cruzer Glide 8GB,413,10.7,5980,https://usb.userbenchmark.com/SpeedTest/2673/SanDisk-Cruzer-Glide
+USB,,SanDisk,Cruzer Edge 8GB,414,10.6,5609,https://usb.userbenchmark.com/SpeedTest/1421/SanDisk-Cruzer-Edge
+USB,,SAMSUNG,HD400LJ 800GB,415,10.6,7,https://usb.userbenchmark.com/SpeedTest/2620/SAMSUNG-HD400LJ
+USB,,Corsair,UFD 8GB,416,10.6,4,https://usb.userbenchmark.com/SpeedTest/6925/Corsair-UFD
+USB,,Corsair,VoyagerGT 2GB,417,10.6,22,https://usb.userbenchmark.com/SpeedTest/5265/Corsair-VoyagerGT
+USB,,TOSHIBA,silicon-power 8GB,418,10.5,93,https://usb.userbenchmark.com/SpeedTest/11557/TOSHIBA-silicon-power
+USB,,Kingston,DataTraveler 111 8GB,419,10.4,243,https://usb.userbenchmark.com/SpeedTest/2973/Kingston-DataTraveler-111
+USB,,SanDisk,Cruzer Switch 8GB,420,10.4,3952,https://usb.userbenchmark.com/SpeedTest/2921/SanDisk-Cruzer-Switch
+USB,,SanDisk,Cruzer Blade 8GB,421,10.3,32089,https://usb.userbenchmark.com/SpeedTest/1167/SanDisk-Cruzer-Blade
+USB,AUV150-8G-RRD,Adata,DashDrive UV150 USB 3.0 8GB,422,10.2,98,https://usb.userbenchmark.com/SpeedTest/2478/ADATA-USB-Flash-Drive
+USB,,,,423,10.2,103,https://usb.userbenchmark.com/SpeedTest/11587/
+USB,,Intenso,Speed Line 16GB,424,10.1,63,https://usb.userbenchmark.com/SpeedTest/1765/Intenso-Speed-Line
+USB,,SanDisk,Cruzer Slice 8GB,425,9.95,627,https://usb.userbenchmark.com/SpeedTest/1971/SanDisk-Cruzer-Slice
+USB,PSF16GSPUSB,Patriot,Supersonic Pulse USB 3.0 16GB,426,9.88,35,https://usb.userbenchmark.com/Patriot-Supersonic-Pulse-USB-30-16GB/Rating/1295
+USB,,SanDisk,Cruzer Glide 32GB,427,9.78,48,https://usb.userbenchmark.com/SpeedTest/5349/SanDisk-Cruzer-Glide
+USB,,SanDisk,Cruzer Force 8GB,428,9.74,1757,https://usb.userbenchmark.com/SpeedTest/5094/SanDisk-Cruzer-Force
+USB,,SanDisk,Cruzer Facet 8GB,429,9.64,2815,https://usb.userbenchmark.com/SpeedTest/4796/SanDisk-Cruzer-Facet
+USB,,SanDisk,Cruzer Fit 8GB,430,9.61,4346,https://usb.userbenchmark.com/SpeedTest/1577/SanDisk-Cruzer-Fit
+USB,,SanDisk,Cruzer Slice 16GB,431,9.58,429,https://usb.userbenchmark.com/SpeedTest/5062/SanDisk-Cruzer-Slice
+USB,,SanDisk,Cruzer Switch 16GB,432,9.55,2787,https://usb.userbenchmark.com/SpeedTest/1433/SanDisk-Cruzer-Switch
+USB,,Kingston,DataTraveler 3.0 16GB,433,9.54,30,https://usb.userbenchmark.com/SpeedTest/2091/Kingston-DataTraveler-30
+USB,,SanDisk,Cruzer Edge 16GB,434,9.53,6176,https://usb.userbenchmark.com/SpeedTest/1294/SanDisk-Cruzer-Edge
+USB,,SanDisk,Cruzer Facet 16GB,435,9.52,1213,https://usb.userbenchmark.com/SpeedTest/1437/SanDisk-Cruzer-Facet
+USB,LJDS73-8GBABEU,Lexar,JumpDrive S73 USB 3.0 8GB,436,9.48,212,https://usb.userbenchmark.com/SpeedTest/4132/Lexar-JumpDrive
+USB,,SanDisk,Cruzer Contour 16GB,437,9.15,190,https://usb.userbenchmark.com/SpeedTest/2948/SanDisk-Cruzer-Contour
+USB,,SanDisk,Cruzer Contour 8GB,438,9.14,196,https://usb.userbenchmark.com/SpeedTest/6158/SanDisk-Cruzer-Contour
+USB,,SanDisk,Cruzer Fit 16GB,439,9.13,8754,https://usb.userbenchmark.com/SpeedTest/2402/SanDisk-Cruzer-Fit
+USB,,OCZ,RALLY2 4GB,440,9.1,46,https://usb.userbenchmark.com/SpeedTest/1195/OCZ-RALLY2
+USB,,Staples,Relay UFD 16GB,441,9.09,223,https://usb.userbenchmark.com/SpeedTest/5678/Staples-Relay-UFD
+USB,,SanDisk,Cruzer Edge 32GB,442,9.05,2675,https://usb.userbenchmark.com/SpeedTest/3928/SanDisk-Cruzer-Edge
+USB,,SanDisk,Cruzer Switch 4GB,443,9.03,483,https://usb.userbenchmark.com/SpeedTest/3042/SanDisk-Cruzer-Switch
+USB,,SanDisk,Cruzer Blade 4GB,444,9.01,6993,https://usb.userbenchmark.com/SpeedTest/1442/SanDisk-Cruzer-Blade
+USB,,SanDisk,Cruzer Fit 32GB,445,9,4394,https://usb.userbenchmark.com/SpeedTest/1702/SanDisk-Cruzer-Fit
+USB,,SanDisk,Cruzer Glide 4GB,446,8.94,668,https://usb.userbenchmark.com/SpeedTest/5957/SanDisk-Cruzer-Glide
+USB,,SYMWAVE,WDC WD20EURS-63S 2TB,447,8.93,3,https://usb.userbenchmark.com/SpeedTest/2617/SYMWAVE-WDC-WD20EURS-63S
+USB,,SanDisk,Ultra USB 2.0 8GB,448,8.93,292,https://usb.userbenchmark.com/SpeedTest/9775/SanDisk-Ultra
+USB,,SanDisk,Cruzer Edge 4GB,449,8.84,1096,https://usb.userbenchmark.com/SpeedTest/1727/SanDisk-Cruzer-Edge
+USB,,,SanDisk 4GB,450,8.8,67,https://usb.userbenchmark.com/SpeedTest/6105/SanDisk
+USB,,SanDisk,Cruzer Switch 32GB,451,8.74,1717,https://usb.userbenchmark.com/SpeedTest/3097/SanDisk-Cruzer-Switch
+USB,,MXT-USB,Storage Device 16GB,452,8.73,35,https://usb.userbenchmark.com/SpeedTest/8798/MXT-USB-Storage-Device
+USB,,SanDisk,Cruzer Orbit 8GB,453,8.67,429,https://usb.userbenchmark.com/SpeedTest/7295/SanDisk-Cruzer-Orbit
+USB,,OCZ,RALLY2 8GB,454,8.63,40,https://usb.userbenchmark.com/SpeedTest/9281/OCZ-RALLY2
+USB,,LaCie,itsaKey 8GB,455,8.61,19,https://usb.userbenchmark.com/SpeedTest/11422/LaCie-itsaKey
+USB,,SanDisk,Cruzer Fit 4GB,456,8.53,416,https://usb.userbenchmark.com/SpeedTest/10061/SanDisk-Cruzer-Fit
+USB,,TOSHIBA,USB DRV 16GB,457,8.52,1849,https://usb.userbenchmark.com/SpeedTest/3039/TOSHIBA-TOSHIBA-USB-DRV
+USB,,SanDisk,Cruzer Slice 4GB,458,8.51,200,https://usb.userbenchmark.com/SpeedTest/5562/SanDisk-Cruzer-Slice
+USB,,Corsair,VoyagerGT 16GB,459,8.47,321,https://usb.userbenchmark.com/SpeedTest/5269/Corsair-VoyagerGT
+USB,,SanDisk,Ultra USB 2.0 16GB,460,8.44,1263,https://usb.userbenchmark.com/SpeedTest/5437/SanDisk-Ultra
+USB,,ST,8GB 8GB,461,8.42,61,https://usb.userbenchmark.com/SpeedTest/4607/ST-8GB
+USB,,,Staples 4GB,462,8.4,110,https://usb.userbenchmark.com/SpeedTest/3939/Staples
+USB,,OCZ,ET1208AD 4GB,463,8.4,17,https://usb.userbenchmark.com/SpeedTest/6529/OCZ-ET1208AD
+USB,,TDK,LoR Trans-It Drive 4GB,464,8.29,57,https://usb.userbenchmark.com/SpeedTest/4384/TDK-LoR-Trans-It-Drive
+USB,,TOSHIBA,TransMemory 32GB,465,8.27,6308,https://usb.userbenchmark.com/SpeedTest/4802/TOSHIBA-TransMemory
+USB,,SanDisk,Cruzer Pop 8GB,466,8.26,512,https://usb.userbenchmark.com/SpeedTest/4875/SanDisk-Cruzer-Pop
+USB,,SanDisk,U3 Titanium 8GB,467,8.22,148,https://usb.userbenchmark.com/SpeedTest/5618/SanDisk-U3-Titanium
+USB,,LEXAR,JD 360 2GB,468,8.19,23,https://usb.userbenchmark.com/SpeedTest/11953/LEXAR-JD-360
+USB,,SanDisk,Cruzer Orbit 16GB,469,8.14,471,https://usb.userbenchmark.com/SpeedTest/10403/SanDisk-Cruzer-Orbit
+USB,,SanDisk,SD Plus 4GB,470,8.07,17,https://usb.userbenchmark.com/SpeedTest/10135/SanDisk-SD-Plus
+USB,,,silicon-power 16GB,471,7.88,52,https://usb.userbenchmark.com/SpeedTest/2253/silicon-power
+USB,,Corsair,Flash Voyager 4GB,472,7.84,190,https://usb.userbenchmark.com/SpeedTest/2134/Corsair-Flash-Voyager
+USB,,DaneElec,Z Mate 16GB,473,7.64,76,https://usb.userbenchmark.com/SpeedTest/2831/DaneElec-Z-Mate-16GB
+USB,,SanDisk,Cruzer Orbit 32GB,474,7.59,310,https://usb.userbenchmark.com/SpeedTest/6332/SanDisk-Cruzer-Orbit
+USB,,Corsair,Flash Voyager 8GB,475,7.52,156,https://usb.userbenchmark.com/SpeedTest/1107/Corsair-Flash-Voyager
+USB,,Crucial,Gizmo! 4GB,476,7.42,7,https://usb.userbenchmark.com/SpeedTest/1313/Crucial-Gizmo-
+USB,,SanDisk,Ultra USB 2.0 64GB,477,7.4,88,https://usb.userbenchmark.com/SpeedTest/5190/SanDisk-Ultra
+USB,,SanDisk,Ultra USB 2.0 32GB,478,7.39,757,https://usb.userbenchmark.com/SpeedTest/4329/SanDisk-Ultra
+USB,,Corsair,Voyager 16GB,479,7.33,593,https://usb.userbenchmark.com/SpeedTest/4854/Corsair-Voyager
+USB,,Ut165,USB2FlashStorage 8GB,480,7.3,261,https://usb.userbenchmark.com/SpeedTest/4730/Ut165-USB2FlashStorage
+USB,,,SanDisk 32GB,481,7.19,305,https://usb.userbenchmark.com/SpeedTest/3611/SanDisk
+USB,,Ut165,USB2FlashStorage 16GB,482,7.17,91,https://usb.userbenchmark.com/SpeedTest/5311/Ut165-USB2FlashStorage
+USB,,Lexar,JD Secure II + 8GB,483,7.16,62,https://usb.userbenchmark.com/SpeedTest/1811/Lexar-JD-Secure-II--
+USB,,SanDisk,Cruzer Micro 8GB,484,7.12,363,https://usb.userbenchmark.com/SpeedTest/1106/SanDisk-Cruzer-Micro
+USB,,SanDisk,U3 Cruzer Micro 16GB,485,7.09,476,https://usb.userbenchmark.com/SpeedTest/3226/SanDisk-U3-Cruzer-Micro
+USB,,SanDisk,U3 Titanium 4GB,486,7.09,264,https://usb.userbenchmark.com/SpeedTest/2741/SanDisk-U3-Titanium
+USB,,SanDisk,U3 Cruzer Micro 8GB,487,7.03,787,https://usb.userbenchmark.com/SpeedTest/3433/SanDisk-U3-Cruzer-Micro
+USB,,SanDisk,Cruzer Micro 4GB,488,6.92,471,https://usb.userbenchmark.com/SpeedTest/2536/SanDisk-Cruzer-Micro
+USB,,Intenso,Rainbow Line 64GB,489,6.87,48,https://usb.userbenchmark.com/SpeedTest/3522/Intenso-Rainbow-Line
+USB,,Kingston,DataTraveler 2.0 64GB,490,6.82,2021,https://usb.userbenchmark.com/SpeedTest/1364/Kingston-DataTraveler-20
+USB,,Kingston,DataTraveler SE9 64GB,491,6.78,68,https://usb.userbenchmark.com/SpeedTest/1779/Kingston-DataTraveler-SE9
+USB,,Kingston,DataTraveler G3 32GB,492,6.78,480,https://usb.userbenchmark.com/SpeedTest/1505/Kingston-DataTraveler-G3
+USB,,,silicon-power 16GB,493,6.73,67,https://usb.userbenchmark.com/SpeedTest/1806/silicon-power
+USB,,,,494,6.72,306,https://usb.userbenchmark.com/SpeedTest/5446/
+USB,,Kingston,DataTraveler 102 16GB,495,6.71,150,https://usb.userbenchmark.com/SpeedTest/2282/Kingston-DataTraveler-102
+USB,,JetFlash,Transcend 8GB,496,6.69,1029,https://usb.userbenchmark.com/SpeedTest/2417/JetFlash-Transcend-8GB
+USB,,pqi,IntelligentStick 16GB,497,6.69,76,https://usb.userbenchmark.com/SpeedTest/3896/pqi-IntelligentStick
+USB,,TOSHIBA,USB DRV 8GB,498,6.65,795,https://usb.userbenchmark.com/SpeedTest/3556/TOSHIBA-TOSHIBA-USB-DRV
+USB,,TOSHIBA,TransMemory 16GB,499,6.61,16240,https://usb.userbenchmark.com/SpeedTest/1430/TOSHIBA-TransMemory
+USB,,JetFlash,Transcend 8GB,500,6.59,9394,https://usb.userbenchmark.com/SpeedTest/1298/JetFlash-Transcend-8GB
+USB,DT101G2/32GB,Kingston,DataTraveler 101 G2 USB 2.0 32GB,501,6.59,649,https://usb.userbenchmark.com/SpeedTest/3026/Kingston-DT-101-G2
+USB,,hp,v125w 32GB,502,6.57,120,https://usb.userbenchmark.com/SpeedTest/6508/hp-v125w
+USB,,SanDisk,U3 Cruzer Micro 4GB,503,6.5,1172,https://usb.userbenchmark.com/SpeedTest/1162/SanDisk-U3-Cruzer-Micro
+USB,,PNY,Transformer 32GB,504,6.48,62,https://usb.userbenchmark.com/SpeedTest/10614/PNY-Transformer
+USB,,Kingston,DT microDuo 64GB,505,6.44,125,https://usb.userbenchmark.com/SpeedTest/8565/Kingston-DT-microDuo
+USB,,SanDisk,U3 Cruzer Micro 2GB,506,6.42,1205,https://usb.userbenchmark.com/SpeedTest/1185/SanDisk-U3-Cruzer-Micro
+USB,,UFD,2.0 Silicon-Power64G 64GB,507,6.39,69,https://usb.userbenchmark.com/SpeedTest/6233/UFD-20-Silicon-Power64G
+USB,,Corsair,Voyager 8GB,508,6.38,415,https://usb.userbenchmark.com/SpeedTest/8294/Corsair-Voyager
+USB,,Kingston,DT 100 G2 16GB,509,6.38,1109,https://usb.userbenchmark.com/SpeedTest/2628/Kingston-DT-100-G2
+USB,,Kingmax,USB2.0 FlashDisk 32GB,510,6.34,90,https://usb.userbenchmark.com/SpeedTest/1856/Kingmax-USB20-FlashDisk
+USB,,Kingston,DT Locker 4GB,511,6.33,18,https://usb.userbenchmark.com/SpeedTest/4584/Kingston-DT-Locker
+USB,,Intenso,Rainbow Line 32GB,512,6.32,217,https://usb.userbenchmark.com/SpeedTest/8760/Intenso-Rainbow-Line
+USB,,FLASH,Drive 3S_USB20 2GB,513,6.32,31,https://usb.userbenchmark.com/SpeedTest/4658/FLASH-Drive-3S-USB20
+USB,,Kingston,DataTraveler 108 16GB,514,6.31,165,https://usb.userbenchmark.com/SpeedTest/2308/Kingston-DataTraveler-108
+USB,,Lexar,USB Flash Drive 64GB,515,6.3,209,https://usb.userbenchmark.com/SpeedTest/4993/Lexar-USB-Flash-Drive
+USB,,,,516,6.3,175,https://usb.userbenchmark.com/SpeedTest/10865/
+USB,,hp,v125w 8GB,517,6.24,529,https://usb.userbenchmark.com/SpeedTest/6352/hp-v125w
+USB,,,Verbatim 32GB,518,6.23,32,https://usb.userbenchmark.com/SpeedTest/5212/Verbatim
+USB,,SanDisk,Cruzer Micro 2GB,519,6.23,349,https://usb.userbenchmark.com/SpeedTest/1362/SanDisk-Cruzer-Micro
+USB,,,silicon-power 4GB,520,6.23,115,https://usb.userbenchmark.com/SpeedTest/6042/silicon-power
+USB,,hp,v165w 32GB,521,6.21,378,https://usb.userbenchmark.com/SpeedTest/6507/hp-v165w
+USB,,TDKMedia,Trans-It Drive 16GB,522,6.21,78,https://usb.userbenchmark.com/SpeedTest/3838/TDKMedia-Trans-It-Drive
+USB,,hp,v165w 16GB,523,6.17,1133,https://usb.userbenchmark.com/SpeedTest/4278/hp-v165w
+USB,,TOSHIBA,TransMemory 8GB,524,6.15,11029,https://usb.userbenchmark.com/SpeedTest/1336/TOSHIBA-TransMemory
+USB,DT101G2/16GB,Kingston,DataTraveler 101 G2 USB 2.0 16GB,525,6.14,2919,https://usb.userbenchmark.com/SpeedTest/1422/Kingston-DT-101-G2
+USB,,JetFlash,TS8GJFV10 8GB,526,6.13,77,https://usb.userbenchmark.com/SpeedTest/7107/JetFlash-TS8GJFV10
+USB,,Kingston,DT microDuo 16GB,527,6.1,1026,https://usb.userbenchmark.com/SpeedTest/9201/Kingston-DT-microDuo
+USB,,Verbatim,micro USB 2GB,528,6.07,3,https://usb.userbenchmark.com/SpeedTest/4441/Verbatim-micro-USB
+USB,,Corsair,Voyager Mini 8GB,529,6,97,https://usb.userbenchmark.com/SpeedTest/6502/Corsair-Voyager-Mini
+USB,,FLASH,Drive SM_USB20 8GB,530,5.99,299,https://usb.userbenchmark.com/SpeedTest/2194/FLASH-Drive-SM-USB20
+USB,,,Verbatim 32GB,531,5.94,496,https://usb.userbenchmark.com/SpeedTest/3113/Verbatim
+USB,,Freecom,DataBar USB2.0 8GB,532,5.93,59,https://usb.userbenchmark.com/SpeedTest/5402/Freecom-DataBar-USB20
+USB,,Lexar,JD FireFly 16GB,533,5.93,94,https://usb.userbenchmark.com/SpeedTest/5219/Lexar-JD-FireFly
+USB,,PNY,USB 2.0 FD 4GB,534,5.89,61,https://usb.userbenchmark.com/SpeedTest/6827/PNY-USB-20-FD
+USB,AC906-16G-RWH,Adata,Classic C906 USB 2.0 16GB,535,5.87,1196,https://usb.userbenchmark.com/SpeedTest/2098/ADATA-USB-Flash-Drive
+USB,,TDKMedia,Trans-It Drive 8GB,536,5.86,469,https://usb.userbenchmark.com/SpeedTest/1784/TDKMedia-Trans-It-Drive
+USB,,hp,v195b 8GB,537,5.85,80,https://usb.userbenchmark.com/SpeedTest/4894/hp-v195b
+USB,,hp,v210w 16GB,538,5.85,542,https://usb.userbenchmark.com/SpeedTest/3358/hp-v210w
+USB,,UFD,2.0 Silicon-Power16G 16GB,539,5.85,1264,https://usb.userbenchmark.com/SpeedTest/5289/UFD-20-Silicon-Power16G
+USB,,hp,v220w 16GB,540,5.84,621,https://usb.userbenchmark.com/SpeedTest/2479/hp-v220w
+USB,,,,541,5.84,511,https://usb.userbenchmark.com/SpeedTest/6298/
+USB,,Verbatim,STORE N GO 32GB,542,5.82,3036,https://usb.userbenchmark.com/SpeedTest/6091/Verbatim-STORE-N-GO
+USB,DT101G2/64GB,Kingston,DataTraveler 101 G2 USB 2.0 64GB,543,5.81,62,https://usb.userbenchmark.com/SpeedTest/12698/Kingston-DT-101-G2
+USB,,TDK,LoR TF10 16GB,544,5.8,328,https://usb.userbenchmark.com/SpeedTest/2836/TDK-LoR-TF10
+USB,,Kingston,DT Micro 16GB,545,5.75,517,https://usb.userbenchmark.com/SpeedTest/5683/Kingston-DT-Micro
+USB,,Kingston,DT 101 G2 64GB,546,5.72,103,https://usb.userbenchmark.com/SpeedTest/6132/Kingston-DT-101-G2
+USB,,Kingston,DT 101 G2 16GB,547,5.72,1886,https://usb.userbenchmark.com/SpeedTest/2015/Kingston-DT-101-G2
+USB,AC008-16G-RKD,Adata,Classic C008 USB 2.0 16GB,548,5.71,1733,https://usb.userbenchmark.com/SpeedTest/3888/ADATA-USB-Flash-Drive
+USB,,FLASH,Drive SM_USB20 4GB,549,5.71,362,https://usb.userbenchmark.com/SpeedTest/10702/FLASH-Drive-SM-USB20
+USB,,TDKMedia,Trans-It Drive 4GB,550,5.66,272,https://usb.userbenchmark.com/SpeedTest/5855/TDKMedia-Trans-It-Drive
+USB,,Imation,Nano Pro 4GB,551,5.63,171,https://usb.userbenchmark.com/SpeedTest/5707/Imation-Nano-Pro
+USB,,TDKMedia,Trans-It Drive 16GB,552,5.62,32,https://usb.userbenchmark.com/SpeedTest/2772/TDKMedia-Trans-It-Drive
+USB,DTSE9H/16GB,Kingston,DataTraveler SE9 USB 2.0 16GB,553,5.57,1637,https://usb.userbenchmark.com/Kingston-DataTraveler-SE9-USB-20-16GB/Rating/1402
+USB,,LEXAR,JD FIREFLY 4GB,554,5.56,57,https://usb.userbenchmark.com/SpeedTest/5141/LEXAR-JD-FIREFLY
+USB,,Kingston,DT 101 II 8GB,555,5.56,859,https://usb.userbenchmark.com/SpeedTest/2808/Kingston-DT-101-II
+USB,,HP,v125w 4GB,556,5.56,511,https://usb.userbenchmark.com/SpeedTest/1613/HP-v125w
+USB,,HP,v125w 2GB,557,5.55,134,https://usb.userbenchmark.com/SpeedTest/5918/HP-v125w
+USB,DT101G2/2GB,Kingston,DataTraveler 101 G2 USB 2.0 2GB,558,5.53,117,https://usb.userbenchmark.com/SpeedTest/15272/Kingston-DT-101-G2
+USB,,PNY,USB 2.0 FD 8GB,559,5.52,27,https://usb.userbenchmark.com/SpeedTest/4598/PNY-USB-20-FD
+USB,,Kingston,DT 101 II 4GB,560,5.47,209,https://usb.userbenchmark.com/SpeedTest/9376/Kingston-DT-101-II
+USB,,SanDisk,U3 Titanium 2GB,561,5.44,138,https://usb.userbenchmark.com/SpeedTest/5939/SanDisk-U3-Titanium
+USB,,JetFlash,TS8GJFV30 8GB,562,5.44,38,https://usb.userbenchmark.com/SpeedTest/9327/JetFlash-TS8GJFV30
+USB,,Kingmax,USB2.0 FlashDisk 8GB,563,5.44,322,https://usb.userbenchmark.com/SpeedTest/3696/Kingmax-USB20-FlashDisk
+USB,,Sony,Storage Media 2GB,564,5.41,472,https://usb.userbenchmark.com/SpeedTest/2461/Sony-Storage-Media
+USB,,Lexar,JumpDrive 8GB,565,5.38,58,https://usb.userbenchmark.com/SpeedTest/3038/Lexar-JumpDrive
+USB,,Verbatim,Store n Go Drive 4GB,566,5.38,173,https://usb.userbenchmark.com/SpeedTest/5900/Verbatim-Store-n-Go-Drive
+USB,,Verbatim,STORE N GO 64GB,567,5.35,1364,https://usb.userbenchmark.com/SpeedTest/7591/Verbatim-STORE-N-GO
+USB,,Kingston,DT101 II 8GB,568,5.34,123,https://usb.userbenchmark.com/SpeedTest/3930/Kingston-DT101-II
+USB,,Flash,Drive AU_USB20 2GB,569,5.33,95,https://usb.userbenchmark.com/SpeedTest/3746/Flash-Drive-AU-USB20
+USB,,hp,v250w 8GB,570,5.33,200,https://usb.userbenchmark.com/SpeedTest/3253/hp-v250w
+USB,,hp,v165w 4GB,571,5.32,556,https://usb.userbenchmark.com/SpeedTest/5911/hp-v165w
+USB,,MUSHKIN,MKNUFDPR8GB 8GB,572,5.31,4,https://usb.userbenchmark.com/SpeedTest/2274/MUSHKIN-MKNUFDPR8GB
+USB,,hp,v165w 8GB,573,5.3,1531,https://usb.userbenchmark.com/SpeedTest/1981/hp-v165w
+USB,,JetFlash,Transcend 2GB,574,5.3,751,https://usb.userbenchmark.com/SpeedTest/11512/JetFlash-Transcend-2GB
+USB,,JetFlash,Transcend 4GB,575,5.29,4861,https://usb.userbenchmark.com/SpeedTest/1401/JetFlash-Transcend-4GB
+USB,,USB,FLASH DRIVE 2GB,576,5.26,404,https://usb.userbenchmark.com/SpeedTest/1966/USB-FLASH-DRIVE
+USB,,Kingston,DT 101 G2 16GB,577,5.26,238,https://usb.userbenchmark.com/SpeedTest/11315/Kingston-DT-101-G2
+USB,,Kingston,DT 100 G2 4GB,578,5.24,602,https://usb.userbenchmark.com/SpeedTest/5494/Kingston-DT-100-G2
+USB,,Verbatim,STORE N GO 16GB,579,5.22,126,https://usb.userbenchmark.com/SpeedTest/11864/Verbatim-STORE-N-GO
+USB,,Kingston,DataTraveler 108 8GB,580,5.21,179,https://usb.userbenchmark.com/SpeedTest/2102/Kingston-DataTraveler-108
+USB,,hp,v220w 8GB,581,5.2,695,https://usb.userbenchmark.com/SpeedTest/1543/hp-v220w
+USB,,PNY,USB 2.0 FD 4GB,582,5.17,110,https://usb.userbenchmark.com/SpeedTest/10550/PNY-USB-20-FD
+USB,,Corsair,Flash Voyager 1GB,583,5.15,23,https://usb.userbenchmark.com/SpeedTest/4389/Corsair-Flash-Voyager
+USB,,takeMS,colorline 16GB,584,5.14,25,https://usb.userbenchmark.com/SpeedTest/4827/takeMS-colorline
+USB,DT101G2/8GB,Kingston,DataTraveler 101 G2 USB 2.0 8GB,585,5.14,2742,https://usb.userbenchmark.com/SpeedTest/1682/Kingston-DT-101-G2
+USB,,Verbatim,STORE N GO 16GB,586,5.11,475,https://usb.userbenchmark.com/SpeedTest/2096/Verbatim-STORE-N-GO
+USB,,Kingston,DataTraveler G2 8GB,587,5.11,654,https://usb.userbenchmark.com/SpeedTest/2097/Kingston-DataTraveler-G2
+USB,,Kingston,DT 101 II 4GB,588,5.1,851,https://usb.userbenchmark.com/SpeedTest/5919/Kingston-DT-101-II
+USB,DT101G2/4GB,Kingston,DataTraveler 101 G2 USB 2.0 4GB,589,5.04,1924,https://usb.userbenchmark.com/SpeedTest/1352/Kingston-DT-101-G2
+USB,,Kingston,DT 100 G2 8GB,590,5.01,2001,https://usb.userbenchmark.com/SpeedTest/1420/Kingston-DT-100-G2
+USB,,Kingston,DT 101 G2 4GB,591,4.96,1567,https://usb.userbenchmark.com/SpeedTest/3101/Kingston-DT-101-G2
+USB,,Kingston,DT 100 G2 4GB,592,4.95,343,https://usb.userbenchmark.com/SpeedTest/7178/Kingston-DT-100-G2
+USB,,Flash,Drive SM_USB20 1GB,593,4.94,89,https://usb.userbenchmark.com/SpeedTest/6766/Flash-Drive-SM-USB20
+USB,,Verbatim,STORE N GO 16GB,594,4.94,7440,https://usb.userbenchmark.com/SpeedTest/2709/Verbatim-STORE-N-GO
+USB,,Kindle,Internal Storage 1GB,595,4.94,295,https://usb.userbenchmark.com/SpeedTest/5145/Kindle-Internal-Storage
+USB,,TOSHIBA,TransMemory 4GB,596,4.93,1130,https://usb.userbenchmark.com/SpeedTest/3442/TOSHIBA-TransMemory
+USB,,HTC42602,0G7AT00 20GB,597,4.9,4,https://usb.userbenchmark.com/SpeedTest/10847/HTC42602-0G7AT00
+USB,,UFD,USB Flash Drive 1GB,598,4.89,27,https://usb.userbenchmark.com/SpeedTest/1755/UFD-USB-Flash-Drive
+USB,,Lexar,JD FireFly 8GB,599,4.89,236,https://usb.userbenchmark.com/SpeedTest/9434/Lexar-JD-FireFly
+USB,,LEXAR,JD FIREFLY 2GB,600,4.89,113,https://usb.userbenchmark.com/SpeedTest/10782/LEXAR-JD-FIREFLY
+USB,,Kingmax,USB2.0 FlashDisk 4GB,601,4.82,41,https://usb.userbenchmark.com/SpeedTest/12171/Kingmax-USB20-FlashDisk
+USB,,Kingston,DT 101 G2 8GB,602,4.81,2368,https://usb.userbenchmark.com/SpeedTest/1472/Kingston-DT-101-G2
+USB,,Kingston,DataTraveler G2 4GB,603,4.77,589,https://usb.userbenchmark.com/SpeedTest/1799/Kingston-DataTraveler-G2
+USB,,JetFlash,Transcend 1GB,604,4.76,93,https://usb.userbenchmark.com/SpeedTest/8690/JetFlash-Transcend-1GB
+USB,,TDK,LoR TF10 8GB,605,4.76,1295,https://usb.userbenchmark.com/SpeedTest/10324/TDK-LoR-TF10
+USB,,ADATA,USB Flash Drive 4GB,606,4.64,19,https://usb.userbenchmark.com/SpeedTest/13330/ADATA-USB-Flash-Drive
+USB,,Kingston,DataTraveler 109 8GB,607,4.64,91,https://usb.userbenchmark.com/SpeedTest/1228/Kingston-DataTraveler-109
+USB,,,,608,4.64,91,https://usb.userbenchmark.com/SpeedTest/7002/
+USB,,Ut163,USB2FlashStorage 2GB,609,4.63,87,https://usb.userbenchmark.com/SpeedTest/6699/Ut163-USB2FlashStorage
+USB,,PNY,USB 2.0 FD 4GB,610,4.58,125,https://usb.userbenchmark.com/SpeedTest/6266/PNY-USB-20-FD
+USB,,JetFlash,TS4GJFV30 4GB,611,4.57,214,https://usb.userbenchmark.com/SpeedTest/3281/JetFlash-TS4GJFV30
+USB,,UFD,2.0 Silicon-Power4G 4GB,612,4.55,168,https://usb.userbenchmark.com/SpeedTest/6047/UFD-20-Silicon-Power4G
+USB,,JetFlash,TS2GJFV30 2GB,613,4.53,230,https://usb.userbenchmark.com/SpeedTest/10269/JetFlash-TS2GJFV30
+USB,,Lexar,JD FireFly 4GB,614,4.52,162,https://usb.userbenchmark.com/SpeedTest/10873/Lexar-JD-FireFly
+USB,,Kingston,DataTraveler SE9 8GB,615,4.52,1223,https://usb.userbenchmark.com/SpeedTest/2584/Kingston-DataTraveler-SE9
+USB,,Kingston,DT Micro 8GB,616,4.51,397,https://usb.userbenchmark.com/SpeedTest/3115/Kingston-DT-Micro
+USB,,Intenso,Rainbow Line 16GB,617,4.44,779,https://usb.userbenchmark.com/SpeedTest/7359/Intenso-Rainbow-Line
+USB,,USB,FLASH DRIVE 1GB,618,4.37,209,https://usb.userbenchmark.com/SpeedTest/3314/USB-FLASH-DRIVE
+USB,,USB,Flash Memory 1GB,619,4.33,122,https://usb.userbenchmark.com/SpeedTest/6923/USB-Flash-Memory
+USB,,Ut165,USB2FlashStorage 1GB,620,4.29,87,https://usb.userbenchmark.com/SpeedTest/5612/Ut165-USB2FlashStorage
+USB,,Verbatim,STORE N GO 2GB,621,4.29,222,https://usb.userbenchmark.com/SpeedTest/8638/Verbatim-STORE-N-GO
+USB,,Chipsbnk,UDisk 16GB,622,4.28,25,https://usb.userbenchmark.com/SpeedTest/1257/Chipsbnk-UDisk
+USB,,SanDisk,Cruzer Mini 1GB,623,4.14,215,https://usb.userbenchmark.com/SpeedTest/4977/SanDisk-Cruzer-Mini
+USB,,Kingston,DataTraveler 112 16GB,624,4.13,220,https://usb.userbenchmark.com/SpeedTest/8377/Kingston-DataTraveler-112
+USB,,USB,Flash Memory 2GB,625,4.12,571,https://usb.userbenchmark.com/SpeedTest/3137/USB-Flash-Memory
+USB,,Freecom,DATABAR 4GB,626,4.04,44,https://usb.userbenchmark.com/SpeedTest/9462/Freecom-DATABAR
+USB,,Verbatim,STORE N GO 4GB,627,4,2711,https://usb.userbenchmark.com/SpeedTest/1268/Verbatim-STORE-N-GO
+USB,,Kingston,DataTravelerMini 1GB,628,3.95,88,https://usb.userbenchmark.com/SpeedTest/4656/Kingston-DataTravelerMini
+USB,,HUAWEI,SD Storage 8GB,629,3.78,121,https://usb.userbenchmark.com/SpeedTest/4906/HUAWEI-SD-Storage
+USB,,USB2.0,FlashDisk 4GB,630,3.64,38,https://usb.userbenchmark.com/SpeedTest/12908/USB20-FlashDisk
+USB,,,,631,3.61,876,https://usb.userbenchmark.com/SpeedTest/7076/
+USB,,Ut163,USB2FlashStorage 1GB,632,3.45,278,https://usb.userbenchmark.com/SpeedTest/12768/Ut163-USB2FlashStorage
+USB,,,AM10 0GB,633,3.41,6,https://usb.userbenchmark.com/SpeedTest/12731/AM10
+USB,,Cisco,AM10 0GB,634,3.23,5,https://usb.userbenchmark.com/SpeedTest/10577/Cisco-AM10
+USB,,Best,Buy Geek Squad U3 1GB,635,3.14,10,https://usb.userbenchmark.com/SpeedTest/5282/Best-Buy-Geek-Squad-U3
+USB,,USB_DISK,USB_DISK 1GB,636,3.04,8,https://usb.userbenchmark.com/SpeedTest/11488/USB-DISK-USB-DISK
+USB,,ACTIONS,HS USB FlashDisk 4GB,637,2.92,147,https://usb.userbenchmark.com/SpeedTest/9386/ACTIONS-HS-USB-FlashDisk
+USB,,KINGSTON,USB DRIVE 0GB,638,0.9,8,https://usb.userbenchmark.com/SpeedTest/4478/KINGSTON-USB-DRIVE
+USB,,SB,X-Fi Go! 1GB,639,0.37,56,https://usb.userbenchmark.com/SpeedTest/2348/SB-X-Fi-Go-
