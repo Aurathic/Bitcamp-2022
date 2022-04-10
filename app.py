@@ -24,20 +24,22 @@ app.config['TEMPLATES_AUTO_RELOAD'] = True
 def results():
     #print(request.form, file=sys.stderr)
     price_min, price_max = list(map(int, request.form['price'].replace("$", "").split("-")))
-    performance = float(request.form['performance'][:-1])/100
-    portability = float(request.form['portability'][:-1])/100
-    screen_quality = float(request.form['screen_quality'][:-1])/100
+    performance = float(request.form['performance'][:-1])
+    portability = float(request.form['portability'][:-1])
+    screen_quality = float(request.form['screen_quality'][:-1])
 
-    df_priced = list(filter(lambda row: price_min <= float(row['Price_euros']) or float(row['Price_euros']) <= price_max, df))
+    df_priced = list(filter(lambda row: price_min <= float(row['Price_euros']) and float(row['Price_euros']) <= price_max, df))
 
+    overall_score = performance + portability + screen_quality
     df_priced = list(map(lambda row:
         row | {"score": 
-            performance *row['performance'] + 
+            (performance *row['performance'] + 
             portability * row['portability'] + 
-            screen_quality * row['screen_qual']}, 
+            screen_quality * row['screen_qual']) / overall_score * 100}, 
         df_priced))
 
     df_priced.sort(key=lambda row: row["score"], reverse=True)
+    print(f"{price_min} <= {df_priced[0]['Price_euros']} <= {price_max}", file=sys.stderr)
     return render_template('results.html', data=df_priced)
 
 #Index page.

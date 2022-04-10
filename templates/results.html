@@ -21,11 +21,10 @@
                 <p>Screen: {{laptop["Inches"]}}", {{laptop["ScreenResolution"]}}</p>
                 <p>RAM: {{laptop["Ram"]}} GB</p>
                 <p>Storage: {{laptop["Memory"]}}</p>
-                <p>Battery Life: </p>
             </div>
             <div class="column">
                 <!--Price :{{laptop}}-->
-                <p>Score: {{"{:,.2f}".format(laptop["score"])}}</p>
+                <p>Score: {{"{:,.2f}".format(laptop["score"])}} out of 100</p>
                 <p>Price: {{"${:,.2f}".format(laptop["Price_euros"])}}</p>
             </div>
         </div>
