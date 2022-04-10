@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -42,56 +43,64 @@
             }
         });
         $( "#screen_quality" ).val( $( "#slider3" ).slider( "value") + "%");
-
-        
-        retPrice = $('#price').val()
-        retPrefo = $('#performance').val()
-        retPort = $('#portability').val()
-        retSQ = $('#screen_quality').val()
-
-        $.ajax({ 
-            url: '/results', 
-            type: 'POST', 
-            data: {'ret_price' : retPrice, 'ret_prefo' : retPrefo, 'ret_port' : retPort, 'ret_SQ' : retSQ },
-            success: function(response){ 
-        $('#main').text(response) 
-    } 
-})
-
     });
     </script>
     <title>Laptop Finder</title>
+    
+
 </head>
+
+<style>
+body {
+  background: linear-gradient(to bottom, #FAD5A5 6%, lightblue 0%);
+}
+
+
+
+p.padding {
+	margin-left: 100px
+}
+p.padding2 {
+  padding-left: 5%;
+}
+
+.main {
+	margin: 5%
+}
+
+</style>
+
 
 
 <body>
+<div class="main">
 <form method="POST" action="{{url_for('results')}}">
-    <h1 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center; font-size:300%;">
+    <h1 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center; font-size:300%; padding-left: 5%; padding-right: 5%">
         What's the Best Laptop for You?
     </h1>
     <h3 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center;">
-        Slide the sliders depending on what you prefer
+        Slide the sliders depending on what you prefer.
     </h3>
-    <p>
-        <label for = "price">Price range:</label>
+    <p class = "padding2">
+        <label style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif" for = "price">Price range:</label>
         <input type = "text" id = "price" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
      </p>
     <div id="slider"></div>
-    <p>
-        <label for = "performance">Performance:</label>
+    <p class = "padding2">
+        <label style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif" for = "performance">Performance:</label>
         <input type = "text" id = "performance" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
      </p>
     <div id="slider1"></div>
-    <p>
-        <label for = "portability">Portability:</label>
+    <p class = "padding2">
+        <label style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif" for = "portability">Portability:</label>
         <input type = "text" id = "portability" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
      </p>
     <div id="slider2"></div>
-    <p>
-        <label for = "screen_quality">Screen Quality:</label>
+    <p class = "padding2">
+        <label style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif" for = "screen_quality">Screen Quality:</label>
         <input type = "text" id = "screen_quality" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
      </p>
-    <div id="slider3"></div>
+    <div id="slider3" class = "padding"></div>
     
     
     <div class="wrapper" style="text-align: center;">
@@ -109,7 +118,8 @@
         </input> 
     </div>
 </form>
+</div>
 </body>
 
-        
+
 </html>
