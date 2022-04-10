@@ -66,10 +66,10 @@
 
 <body>
     <form method="POST" action="{{url_for('results')}}">
-        <h1 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center; font-size:300%;">
+        <h1 style="color:rgb(117, 111, 111); text-align:center; font-size:300%;">
             What's the Best Laptop for You?
         </h1>
-        <h3 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center;">
+        <h3 style="color:rgb(117, 111, 111); text-align:center;">
             Slide the sliders depending on what factors are more important to you.
         </h3>
         <p>
@@ -110,6 +110,10 @@
         </div>
 </form>
 </body>
-
+<style>
+    * {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+</style>
         
 </html>
