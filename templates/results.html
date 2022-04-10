@@ -11,16 +11,13 @@
     <h1 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center; font-size:300%;">
         Your Results: {{price}}
     </h1>
-    <!--
-    {% for product in products%}<br>
+    {% for laptop in data%}<br>
     <ul>
-    <li> SKU :{{product.sku}}</li>
-    <li> Name :{{product.name}}</li>
-    <li> price :{{product.price}}</li>
-    <li> Stock :{{product.units}} remaining </li>
+    <li> Name :{{laptop["Company"]}} {{laptop["Product"]}}</li>
+    <li> Price :{{laptop}}</li>
+    <!--<li> Stock :{{laptop.units}} remaining </li>-->
     </ul>
     {%endfor%}
-    -->
 </body>
 
 </html>

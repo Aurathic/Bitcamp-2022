@@ -11,7 +11,7 @@ app.config['TEMPLATES_AUTO_RELOAD'] = True
 #creates dictionary with results, make webpage from that.
 @app.route('/results', methods=['GET', 'POST'])
 def results():
-    print(request.form, file=sys.stderr)
+    #print(request.form, file=sys.stderr)
     price_min, price_max = list(map(int, request.form['price'].replace("$", "").split("-")))
     performance = float(request.form['performance'][:-1])/100
     portability = float(request.form['portability'][:-1])/100
@@ -24,8 +24,8 @@ def results():
     , axis=1)
 
     df.sort_values(by="score", ascending=False, inplace=True)
-
-    return render_template('results.html', data=df.to_dict())
+    print(df.to_dict(orient="records"), file=sys.stderr)
+    return render_template('results.html', data=df.to_dict(orient="records"))
 
 #Index page.
 @app.route('/') 
