@@ -14,7 +14,7 @@ for row in df:
     row['screen_qual'] = float(row['screen_qual'])
     row['battery_qual'] = float(row['battery_qual'])
     row['Price_euros'] = float(row['Price_euros'])
-websites = ["Newegg", "Amazon"]
+websites = ["Newegg"] * 4 +  ["Amazon"]
 
 print(df, file=sys.stderr)
 app = Flask(__name__)
