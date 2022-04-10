@@ -23,9 +23,10 @@ def results():
         screen_quality * row['screen_qual']
     , axis=1)
 
-    df.sort_values(by="score", ascending=False, inplace=True)
-    print(df.to_dict(orient="records"), file=sys.stderr)
-    return render_template('results.html', data=df.to_dict(orient="records"))
+    df_priced = df[df['Price_euros'].between(price_min, price_max)]
+    df_priced.sort_values(by="score", ascending=False, inplace=True)
+    print(df_priced.to_dict(orient="records"), file=sys.stderr)
+    return render_template('results.html', data=df_priced.to_dict(orient="records"))
 
 #Index page.
 @app.route('/') 

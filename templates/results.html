@@ -14,8 +14,20 @@
     <div>
         {% for laptop in data%}<br>
         <div class="row" style="padding: 10px; background-color: #EEE; margin: 20px">
-            <div class="column notebook_title">Name: {{laptop["Company"]}} {{laptop["Product"]}}</div>
-            <div class="column">Price :{{laptop}}</div>
+            <div class="column">
+                <div class="notebook_title">{{laptop["Company"]}} {{laptop["Product"]}}</div>
+                <p>CPU: {{laptop["Cpu"]}}</p>
+                <p>Graphics Card: {{laptop["Gpu"]}}</p>
+                <p>Screen Size: {{laptop["Inches"]}}"</p>
+                <p>{{laptop["ScreenResolution"]}}</p>
+                <p>RAM: {{laptop["Ram"]}} GB</p>
+                <p>Storage: {{laptop["Memory"]}}</p>
+            </div>
+            <div class="column">
+                <!--Price :{{laptop}}-->
+                <p>Score: {{"{:,.2f}".format(laptop["score"])}}</p>
+                <p>Price: {{"${:,.2f}".format(laptop["Price_euros"])}}</p>
+            </div>
         </div>
         {%endfor%}
     </div>
