@@ -26,6 +26,7 @@
                 <!--Price :{{laptop}}-->
                 <p>Score: {{"{:,.2f}".format(laptop["score"])}} out of 100</p>
                 <p>Price: {{"${:,.2f}".format(laptop["Price_euros"])}}</p>
+                <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Link To Buy From {{laptop["website"]}}</a>
             </div>
         </div>
         {%endfor%}

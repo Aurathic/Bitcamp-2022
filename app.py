@@ -2,8 +2,7 @@
 from flask import Flask, render_template, request, jsonify, redirect, url_for
 import csv 
 import sys
-
-
+import random 
 
 
 with open("notebook_dataset.csv", "r") as f:
@@ -15,10 +14,12 @@ for row in df:
     row['screen_qual'] = float(row['screen_qual'])
     row['battery_qual'] = float(row['battery_qual'])
     row['Price_euros'] = float(row['Price_euros'])
+websites = ["Newegg", "Amazon"]
 
 print(df, file=sys.stderr)
 app = Flask(__name__)
 app.config['TEMPLATES_AUTO_RELOAD'] = True
+
 
 @app.route('/results', methods=['GET', 'POST'])
 def results():
@@ -38,7 +39,8 @@ def results():
             portability * row['portability'] + 
             screen_quality * row['screen_qual'] +
             battery_quality * row['battery_qual']) / 
-            overall_score * 100}, 
+            overall_score * 100,
+            "website": random.choice(websites)}, 
         df_priced))
 
     df_priced.sort(key=lambda row: row["score"], reverse=True)
