@@ -3,6 +3,7 @@ from flask import Flask, render_template, request, jsonify, redirect, url_for
 import csv 
 import sys
 import random 
+import re
 
 
 with open("notebook_dataset.csv", "r") as f:
@@ -35,12 +36,15 @@ def results():
     overall_score = performance + portability + screen_quality + battery_quality
     df_priced = list(map(lambda row:
         row | {"score": 
-            (performance *row['performance'] + 
+            (performance * row['performance'] + 
             portability * row['portability'] + 
             screen_quality * row['screen_qual'] +
             battery_quality * row['battery_qual']) / 
             overall_score * 100,
-            "website": random.choice(websites)}, 
+            "website": random.choice(websites),
+            "search_url": f"https://www.google.com/search?tbm=shop&q=" + 
+                re.sub("\s", "+", re.sub("[^a-zA-Z0-9\s+]", "", row["Company"]+"+"+row["Product"]))
+        },
         df_priced))
 
     df_priced.sort(key=lambda row: row["score"], reverse=True)
