@@ -42,10 +42,27 @@
             }
         });
         $( "#screen_quality" ).val( $( "#slider3" ).slider( "value") + "%");
+
+        
+        retPrice = $('#price').val()
+        retPrefo = $('#performance').val()
+        retPort = $('#portability').val()
+        retSQ = $('#screen_quality').val()
+
+        $.ajax({ 
+            url: '/results', 
+            type: 'POST', 
+            data: {'ret_price' : retPrice, 'ret_prefo' : retPrefo, 'ret_port' : retPort, 'ret_SQ' : retSQ },
+            success: function(response){ 
+        $('#main').text(response) 
+    } 
+})
+
     });
     </script>
     <title>Laptop Finder</title>
 </head>
+
 
 <body>
 <form method="POST" action="{{url_for('results')}}">
@@ -94,4 +111,5 @@
 </form>
 </body>
 
+        
 </html>
