@@ -9,6 +9,7 @@ def calculate_scores(laptop_data):
     max_ram_mb = 32000 # 32 GB
     max_battery_life = 20
     max_resolution = 3840*2400 
+    max_screen_size = 17.3
     cpu_rating      = float(laptop_data["cpu"]["rating"]) / 100
     gpu_rating      = float(laptop_data["gpu"]["rating"]) / 100
     ram_amount      = float(laptop_data["memory_size"]) / max_ram_mb
@@ -16,7 +17,7 @@ def calculate_scores(laptop_data):
     resolution      = int(laptop_data["display"]["horizontal_resolution"]) * \
                           int(laptop_data["display"]["vertical_resolution"]) / max_resolution
     srgb            = float(laptop_data["display"]["srgb"]) / 100
-    screen_size     = float(laptop_data["display"]["size"]) / 17.3
+    screen_size     = float(laptop_data["display"]["size"]) / max_screen_size
     volume          = float(laptop_data["height_cm"]) * \
                           float(laptop_data["depth_cm"]) * \
                           float(laptop_data["width_cm"]) / max_volume
