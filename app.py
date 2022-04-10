@@ -27,15 +27,18 @@ def results():
     performance = float(request.form['performance'][:-1])
     portability = float(request.form['portability'][:-1])
     screen_quality = float(request.form['screen_quality'][:-1])
+    battery_quality = float(request.form['battery_quality'][:-1])
 
     df_priced = list(filter(lambda row: price_min <= float(row['Price_euros']) and float(row['Price_euros']) <= price_max, df))
 
-    overall_score = performance + portability + screen_quality
+    overall_score = performance + portability + screen_quality + battery_quality
     df_priced = list(map(lambda row:
         row | {"score": 
             (performance *row['performance'] + 
             portability * row['portability'] + 
-            screen_quality * row['screen_qual']) / overall_score * 100}, 
+            screen_quality * row['screen_qual'] +
+            battery_quality * row['battery_qual']) / 
+            overall_score * 100}, 
         df_priced))
 
     df_priced.sort(key=lambda row: row["score"], reverse=True)
