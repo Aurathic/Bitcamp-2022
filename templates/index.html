@@ -65,49 +65,49 @@
 
 
 <body>
-<form method="POST" action="{{url_for('results')}}">
-    <h1 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center; font-size:300%;">
-        What's the Best Laptop for You?
-    </h1>
-    <h3 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center;">
-        Slide the sliders depending on what you prefer
-    </h3>
-    <p>
-        <label for = "price">Price range:</label>
-        <input type = "text" id = "price" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
-     </p>
-    <div id="slider"></div>
-    <p>
-        <label for = "performance">Performance:</label>
-        <input type = "text" id = "performance" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
-     </p>
-    <div id="slider1"></div>
-    <p>
-        <label for = "portability">Portability:</label>
-        <input type = "text" id = "portability" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
-     </p>
-    <div id="slider2"></div>
-    <p>
-        <label for = "screen_quality">Screen Quality:</label>
-        <input type = "text" id = "screen_quality" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
-     </p>
-    <div id="slider3"></div>
-    
-    
-    <div class="wrapper" style="text-align: center;">
-        <input type="submit" value="Submit" style=
-            "background-color: rgb(117, 111, 111);
-            border: none;
-            color: white;
-            padding: 10px 20px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            margin: 4px 2px;
-            cursor: pointer;
-            border-radius: 16px;">
-        </input> 
-    </div>
+    <form method="POST" action="{{url_for('results')}}">
+        <h1 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center; font-size:300%;">
+            What's the Best Laptop for You?
+        </h1>
+        <h3 style="color:rgb(117, 111, 111); font-family:Verdana, Geneva, Tahoma, sans-serif; text-align:center;">
+            Slide the sliders depending on what factors are more important to you.
+        </h3>
+        <p>
+            <label for = "price">Price range:</label>
+            <input type = "text" name="price" id = "price" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
+        </p>
+        <div id="slider"></div>
+        <p>
+            <label for = "performance">Performance:</label>
+            <input type = "text" name="performance" id = "performance" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
+        </p>
+        <div id="slider1"></div>
+        <p>
+            <label for = "portability">Portability:</label>
+            <input type = "text" name="portability" id = "portability" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
+        </p>
+        <div id="slider2"></div>
+        <p>
+            <label for = "screen_quality">Screen Quality:</label>
+            <input type = "text" name="screen_quality" id = "screen_quality" style = "border:0; color:rgb(117, 111, 111); font-weight:bold;">
+        </p>
+        <div id="slider3"></div>
+        
+        
+        <div class="wrapper" style="text-align: center;">
+            <input type="submit" value="Submit" style=
+                "background-color: rgb(117, 111, 111);
+                border: none;
+                color: white;
+                padding: 10px 20px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                margin: 4px 2px;
+                cursor: pointer;
+                border-radius: 16px;">
+            </input> 
+        </div>
 </form>
 </body>
 
